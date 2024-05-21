@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://seguirplay.com/sitemap.xml
+Sitemap:https://seguirplay.com/sitemap_1.xml
