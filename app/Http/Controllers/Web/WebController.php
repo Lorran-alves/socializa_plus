@@ -185,11 +185,7 @@ class WebController extends Controller
         }
         return $status;
     }
-    /**
-     * cartão = 4.98% juros
-     * saldo do mercado pago = 4.99% juros
-     * pix = 0.99% juros
-     */
+   
     public function ajustaPrecoTotalJuros($price, $metodo)
     {   
         // Define as taxas de juros para cada método
