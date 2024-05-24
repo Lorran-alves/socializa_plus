@@ -4,7 +4,6 @@ namespace App\Http\Controllers\Web;
 
 use Illuminate\Support\Facades\Http;
 use App\Http\Controllers\Controller;
-use App\Http\Controllers\Dashboard\Dashboard;
 use App\Models\Plan;
 use App\Models\Purchase;
 use App\Models\Coment;
@@ -22,7 +21,6 @@ class PurchaseController extends Controller
 {
     public function buy(Request $request, Plan $plan)
     {
-        $periodo = $this->getPeriod();
 
         $purchase = new Purchase();
         $purchase->plan_id = $plan->id;
@@ -38,7 +36,6 @@ class PurchaseController extends Controller
 
         $purchase->quantity = $request->quantity;
         $purchase->payment_method = 'master';
-        $purchase->period = $periodo;
         $purchase->payment_id = 0;
         $purchase->termos_id = 3;
         $purchase->politicas_id = 1;
@@ -61,7 +58,9 @@ class PurchaseController extends Controller
         fwrite($fp, '=============================================================');
         fwrite($fp, PHP_EOL);
         fclose($fp);
-        SDK::setAccessToken('APP_USR-1862735257368010-072921-bfafa63d92f95d243e36b72dee54b99f-177082211'); // Either Production or SandBox AccessToken
+        
+        SDK::setAccessToken(env('TOKEN_MERCADO_PAGO')); // Either Production or SandBox AccessToken
+        
         $preference = new Preference();
         $item = new Item();
         $item->title = "SeguirPlay #{$purchase->id}";
@@ -100,7 +99,6 @@ class PurchaseController extends Controller
     
     public function pix(Request $request, Plan $plan)
     {
-        $periodo = $this->getPeriod();
         $cupons = $this->getCupons();
 
         //começa com falso
@@ -142,7 +140,6 @@ class PurchaseController extends Controller
         } 
         $purchase->quantity = $request->quantity;
         $purchase->payment_method = 'pix';
-        $purchase->period = $periodo;
         $purchase->payment_id = 0;
         $purchase->termos_id = 3;
         $purchase->politicas_id = 1;
@@ -185,8 +182,8 @@ class PurchaseController extends Controller
         fwrite($fp, '=============================================================');
         fwrite($fp, PHP_EOL);
         fclose($fp);
-        SDK::setAccessToken('APP_USR-1862735257368010-072921-bfafa63d92f95d243e36b72dee54b99f-177082211'); // Either Production or SandBox AccessToken
-        
+        SDK::setAccessToken(env('TOKEN_MERCADO_PAGO')); 
+
         $payment = new Payment();
   		$payment->description = "Seguir Play #{$purchase->id}";
   		$payment->transaction_amount = (double) round($purchase->price,2);

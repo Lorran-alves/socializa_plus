@@ -36,7 +36,7 @@
 @yield('content')
 
 @include('web.includes.footer')
-
+@include('web.includes.modal_orders')
 
 <!-- Scripts vendor/jquery/jquery.min.js -->
 <script src="{{asset("web_assets/js/jquery/jquery.min.js")}}"></script>
@@ -46,6 +46,5 @@
 <script src="{{asset("web_assets/js/imagesloaded.js")}}"></script>
 <script src="{{asset("web_assets/js/custom.js")}}"></script>
 
-{{-- @stack('scripts') --}}
 </body>
 </html>

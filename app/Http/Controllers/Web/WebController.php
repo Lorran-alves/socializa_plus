@@ -232,9 +232,6 @@ class WebController extends Controller
 
         $api = new ProviderAPI($provedor->url, $provedor->token);
        
-        $dashboard = new Dashboard;
-        $period = $dashboard->getPeriod();
-
         if($plan_a->type == 4){ //comment
             $comments = Coment::where('purchase_id', $u->id)->get();
 
@@ -288,12 +285,6 @@ class WebController extends Controller
                 $u->status = 'send';
                 $u->price_sale = $this->ajustaPrecoTotalJuros($u->price, $u->payment_method);
                 $u->save();
-
-                $dashboard->addDespesa($status_r->charge);
-
-                $dashboard->addCustomer($u->email, $u->price, $u->telefone);
-
-                $dashboard->addTotalMonth($u->price_sale);
 
                 $preco = (float) str_replace(',', '.', trim($u->price));
                 $preco_tot = (float) str_replace(',', '.', trim($u->price_tot));
@@ -352,13 +343,6 @@ class WebController extends Controller
                 $u->status = 'send';
                 $u->price_sale = $this->ajustaPrecoTotalJuros($u->price, $u->payment_method);
                 $u->save();
-
-                //apenas uma vez adicionar a despesa
-                $dashboard->addDespesa($status_r->charge);
-
-                $dashboard->addCustomer($u->email, $u->price, $u->telefone);
-
-                $dashboard->addTotalMonth($u->price_sale);
                 
                 $preco = (float) str_replace(',', '.', trim($u->price));
                 $preco_tot = (float) str_replace(',', '.', trim($u->price_tot));
@@ -387,8 +371,6 @@ class WebController extends Controller
         $orders = Order::whereNotIn('status', $reembolsos)
         ->where('status', '<>', 'Completed')
         ->get();
-
-        $dashboard = new Dashboard;
         
         foreach($orders as $o){
             
@@ -412,13 +394,6 @@ class WebController extends Controller
                 $oo = Order::find($o->id);
                 $oo->status = $status_r->status;
                 $oo->save();
-
-                //subtrair desepesas em caso de reembolso
-                if(in_array($status_r->status, $reembolsos) && $oo->period == $period ){
-                    
-                    $dashboard->subtrairDespesa($oo->charge, $oo->period, $p->price, $p->price_sale, $p->email);
-
-                }
 
             }
         }
@@ -454,8 +429,6 @@ class WebController extends Controller
         }
 
         $api = new ProviderAPI($provedor->url, $provedor->token);
-        $dashboard = new Dashboard;
-        $period = $dashboard->getPeriod();
 
         if($plan_a->type == 4){ //comment
             $comments = Coment::where('purchase_id', $u->id)->get();
@@ -519,13 +492,6 @@ class WebController extends Controller
                 $u->price_sale = $this->ajustaPrecoTotalJuros($u->price, $u->payment_method);
                 $u->save();
 
-                //apenas uma vez adicionar a despesa
-                $dashboard->addDespesa($status_r->charge);
-
-                $dashboard->addCustomer($u->email, $u->price, $u->telefone);
-
-                $dashboard->addTotalMonth($u->price_sale);
-
                 $preco = (float) str_replace(',', '.', trim($u->price));
                 $preco_tot = (float) str_replace(',', '.', trim($u->price_tot));
                 $desconto = $preco_tot - $preco;
@@ -582,13 +548,6 @@ class WebController extends Controller
                 $u->status = 'send';
                 $u->price_sale = $this->ajustaPrecoTotalJuros($u->price, $u->payment_method);
                 $u->save();
-
-                //apenas uma vez adicionar a despesa
-                $dashboard->addDespesa($status_r->charge);
-
-                $dashboard->addCustomer($u->email, $u->price, $u->telefone);
-
-                $dashboard->addTotalMonth($u->price_sale);
 
                 $preco = (float) str_replace(',', '.', trim($u->price));
                 $preco_tot = (float) str_replace(',', '.', trim($u->price_tot));

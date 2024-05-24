@@ -853,9 +853,10 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 226px 0px 120px 0px;
+  padding: 226px 0px 0px;
   position: relative;
   overflow: hidden;
+  background-color: #A54800;
 }
 
 .main-banner .left-content {
@@ -1098,56 +1099,6 @@ Due to the split circle of progress-left and progress right, we must use the ani
 .progress[data-percentage="100"] .progress-left .progress-bar {
   animation: loading-5 1.5s linear forwards 1.5s;
 }
-
-@keyframes loading-1 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(36);
-    transform: rotate(36deg);
-  }
-}
-@keyframes loading-2 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(72);
-    transform: rotate(72deg);
-  }
-}
-@keyframes loading-3 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(108);
-    transform: rotate(108deg);
-  }
-}
-@keyframes loading-4 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(144);
-    transform: rotate(144deg);
-  }
-}
-@keyframes loading-5 {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(180);
-    transform: rotate(180deg);
-  }
 }
 .progress {
   margin-bottom: 1em;
@@ -1166,7 +1117,6 @@ Services Style
 
 .services:after {
   content: '';
-  background-image: url("../img/services-left-dec.jpg");
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -1178,7 +1128,6 @@ Services Style
 
 .services:before {
   content: '';
-  background-image: url("../img/services-right-dec.jpg");
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
@@ -1341,7 +1290,6 @@ Free Quote
 */
 
 .free-quote {
-  background-image: url("../img/quote-bg-v2.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1422,7 +1370,6 @@ Portfolio
 
 .our-portfolio:before {
   content: '';
-  background-image: url("../img/portfolio-right-dec.jpg");
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
@@ -1434,7 +1381,6 @@ Portfolio
 
 .our-portfolio:after {
   content: '';
-  background-image: url("../img/portfolio-left-dec.jpg");
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -1543,7 +1489,6 @@ Blog
 
 .blog:before {
   content: '';
-  background-image: url("../img/blog-left-dec.jpg");
   background-repeat: no-repeat;
   position: absolute;
   left: 0;
@@ -1710,7 +1655,6 @@ contact
 
 
 form#contact:before {
-  background-image: url("../img/contact-top-right-v2.png");
   position: absolute;
   right: 0;
   top: 0;
@@ -1729,7 +1673,6 @@ form#contact:before {
 }
 
 form#contact:after {
-  background-image: url("../img/contact-bottom-right-v2.png");
   position: absolute;
   right: 0;
   bottom: 0;
@@ -1859,7 +1802,6 @@ Footer Style
 */
 
 footer {
-  background-image: url('../img/footer-bg-v2.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2045,4 +1987,8 @@ responsive
   form#contact {
     padding: 30px;
   }
+}
+.header-area.header-sticky .nav li a.active {
+  color: #fe664e;
+  padding: 0;
 }
