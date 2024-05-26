@@ -17,10 +17,11 @@
 
     <!-- Additional CSS Files -->
     
-    {{-- <script src="https://kit.fontawesome.com/f29238e7e8.js" crossorigin="anonymous"></script> --}}
+    <script src="https://kit.fontawesome.com/f29238e7e8.js" crossorigin="anonymous"></script>
     
-    {{-- <link rel="stylesheet" href="{{asset("web_assets/css/fontawesome.css")}}"> --}}
-     <link rel="stylesheet" href="{{asset("web_assets/css/templatemo-digimedia-v2.css")}}">
+    <link rel="stylesheet" href="{{ asset(mix('web_assets/css/app.css')) }}">
+    <link rel="stylesheet" href="{{asset("web_assets/css/fontawesome.css")}}">
+    <link rel="stylesheet" href="{{asset("web_assets/css/templatemo-digimedia-v2.css")}}">
     <link rel="stylesheet" href="{{asset("web_assets/css/animated.css")}}">
     <link rel="stylesheet" href="{{asset("web_assets/css/owl.css")}}">
 
@@ -45,6 +46,13 @@
 <script src="{{asset("web_assets/js/animation.js")}}"></script>
 <script src="{{asset("web_assets/js/imagesloaded.js")}}"></script>
 <script src="{{asset("web_assets/js/custom.js")}}"></script>
+
+{{-- input telefone --}}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/css/intlTelInput.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/utils.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/intlTelInput.min.js" defer></script>
 
 </body>
 </html>

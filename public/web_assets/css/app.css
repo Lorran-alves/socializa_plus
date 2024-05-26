@@ -151,7 +151,7 @@ nav li button:hover{
 	outline: none;
 }
 nav li button i{
-	color: #FF455B;
+	color: #FE664E;
 }
 
 li a {
@@ -160,19 +160,20 @@ li a {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 24px;
-	color: #fff !important;
+	color: #333 !important;
 }
 
 
 header{
-	background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%);
+	/* background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%); */
 	/* background-color: black; */
-	padding-top: 125px;
+	/* padding-top: 125px; */
+	color: black;
 }
 
 
 header button{
-	background: #FF455B;
+	background: #FE664E;
 	border: none;
 }
 
@@ -288,7 +289,7 @@ header h1, header p{
 }
 
 .value .purchase-button{
-	background: #FF455B;
+	background: #FE664E;
 	/* background: black; */
 	border: none;
 }
@@ -478,7 +479,7 @@ footer a:hover{
 	margin-top: 50px;
 }
 .cancelado h4 {
-	color: #FF455B;
+	color: #FE664E;
 }
 .status0 {
 	background: linear-gradient(to right, #7C205D 5%, white 0);
@@ -1035,4 +1036,24 @@ ul.ul-politicas li {
 }
 .userInstagram{
 	overflow-x: auto;
+}
+.button-nav{
+	background: white !important;
+    color: #fe664e !important;
+    border: 1px solid #fe664e !important;
+	border-radius: 20px;
+}
+
+.button-nav i{
+    color: #fe664e;
+}
+
+.button-nav:hover{
+	color: white;
+    background: #fe664e;
+    border: 1px solid #FFF;
+}
+
+.button-nav:hover i{
+	color: #fe664e;
 }

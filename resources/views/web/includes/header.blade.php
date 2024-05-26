@@ -30,11 +30,8 @@
            
             <li class="nav-item mauto">
               <div class="dropdown">
-                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
-                          data-bs-toggle="dropdown" aria-expanded="false" style="    background: #A54800;
-                          border-radius: 16px;
-                          padding: 5px 15px;
-                          border: none;">
+                  <button class="btn btn-secondary dropdown-toggle button-nav" type="button" id="dropdownMenuButton1"
+                          data-bs-toggle="dropdown" aria-expanded="false">
                       + Serviços
                   </button>
                   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -50,13 +47,13 @@
               </div>
             </li>
   
-            <li class="nav-item mauto">
-              <button data-bs-toggle="modal" data-bs-target="#pedido" style="    background: #A54800;
-              border-radius: 16px;
-              padding: 5px 25px;
-              border: none;
-              color:white;">
-                <i class="fa-solid fa-magnifying-glass icon-pedido"></i> Pedidos</button>
+            <li class="nav-item mauto" style="padding: 0">
+              <div>
+                <button data-bs-toggle="modal" data-bs-target="#pedido" class="button-nav">
+                  <i class="fa-solid fa-magnifying-glass icon-pedido"></i> Pedidos
+                </button>
+              </div>
+
             </li>
 
           </ul>        
