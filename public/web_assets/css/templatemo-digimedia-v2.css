@@ -131,8 +131,10 @@ p {
 }
 
 img {
-  width: 100%;
+    width: 100%;
   overflow: hidden;
+  
+	
 }
 
 /* 
@@ -234,7 +236,7 @@ header
 */
 
 .pre-header {
-  background-color: #efefef;
+  background-color: #fffff;
   height: 60px;
   padding: 15px 0px;
 }
@@ -853,10 +855,10 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding: 226px 0px 0px;
+  padding: 150px 5px 0px;
   position: relative;
   overflow: hidden;
-  background-color: #A54800;
+  background-color: #000;
 }
 
 .main-banner .left-content {
@@ -877,7 +879,7 @@ Banner Style
   position: relative;
   font-weight: 700;
   font-size: 50px;
-  color: #2a2a2a;
+  color: #ffffff;
   margin-bottom: 20px;
 }
 

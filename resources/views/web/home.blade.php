@@ -1,8 +1,8 @@
 @extends('web.templates.master')
-@section('title', 'Seguidores Reais e Brasileiros')
+@section('title', 'Agencia de Impusionamento em Rede Social')
 @section('content')
-    <
-    <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+
+    <div class="main-banner wow fadeIn" >
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
@@ -24,8 +24,7 @@
                 </div>
               </div>
               <div class="col-lg-6">
-                <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <img src="{{asset("web_assets/img/hde10.png")}}" alt="" >
+                  <img src="{{asset('web_assets/img/hde10.png')}}" style="max-width: 109%;">
                 </div>
               </div>
             </div>
@@ -33,6 +32,7 @@
         </div>
       </div>
     </div>
+
   
     <div id="about" class="about section">
       <div class="container">
