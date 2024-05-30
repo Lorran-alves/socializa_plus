@@ -30,7 +30,7 @@
            
             <li class="nav-item mauto">
               <div class="dropdown">
-                  <button class="btn btn-secondary dropdown-toggle button-nav" type="button" id="dropdownMenuButton1"
+                  <button class="button-nav" type="button" id="dropdownMenuButton1"
                           data-bs-toggle="dropdown" aria-expanded="false">
                       + Serviços
                   </button>

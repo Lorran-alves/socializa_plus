@@ -4,16 +4,16 @@
 
             <div class="col-lg-4">
                 <img src="{{ asset('web_assets/img/logo_footer.png') }}">
-                <p>Turbine as suas redes sociais conquistando mais seguidores e engajamentos com a Seguir Play. A maneira mais rápida e segura de alcançar os seus objetivos.</p>
+                <p>Se você está buscando ampliar seu alcance, aumentar o seu engajamento ou até mesmo impulsionar a sua autoridade na popular rede social, nós temos a solução que você precisa.</p>
             </div>
 
             <div class="col-lg">
                 <h2>Categorias</h2>
-                <a href="{{ route('web.categories.show', ['slug' => 'comprar-seguidores-instagram']) }}">Instagram</a>
-                <br><a href="{{ route('web.categories.show', ['slug' => 'comprar-seguidores-youtube']) }}">Youtube</a>
-                <br><a href="{{ route('web.categories.show', ['slug' => 'comprar-seguidores-tik-tok']) }}">TikTok</a>
-                <br><a href="{{ route('web.categories.show', ['slug' => 'comprar-seguidores-facebook']) }}">Facebook</a>
-                <br><a href="{{ route('web.categories.show', ['slug' => 'comprar-seguidores-kwai']) }}">kwai</a>
+                <a href="{{ route('web.categories.show', ['slug' => 'impulsione-seu-instagram']) }}">Instagram</a>
+                <br><a href="{{ route('web.categories.show', ['slug' => 'impulsione-seu-youtube']) }}">Youtube</a>
+                <br><a href="{{ route('web.categories.show', ['slug' => 'impulsione-seu-tik-tok']) }}">TikTok</a>
+                <br><a href="{{ route('web.categories.show', ['slug' => 'impulsione-seu-facebook']) }}">Facebook</a>
+                <br><a href="{{ route('web.categories.show', ['slug' => 'impulsione-seu-kwai']) }}">kwai</a>
             </div>
 
             <div class="col-lg">
@@ -26,9 +26,8 @@
 
             <div class="col-lg">
                 <h2>Rede Social</h2>
-                <a href="https://www.facebook.com/seguirplaybr/" target="_blank"><img src="{{ asset('web_assets/img/facebook.png') }}"></a>
-                <a href="https://instagram.com/seguirplaybr?igshid=YmMyMTA2M2Y=" class="space-footer" target="_blank"><img src="{{ asset('web_assets/img/instagram.png') }}"></a>
-                <a href="https://wa.me/5511985868006"><img src="{{ asset('web_assets/img/telefone.png') }}"></a>
+                <a href="https://wa.me/5511957193810"><i class="fa fa-whatsapp" style="font-size:30px; margin: 10px 10px; color:#f15a25"></i></a>
+                <a href="https://instagram.com/socializaplus"><i class="fa fa-instagram" style="font-size:30px; margin: 10px 10px;color:#f15a25"></i></a>
             </div>
 
         </div>

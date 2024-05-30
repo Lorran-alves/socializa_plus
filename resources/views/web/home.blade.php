@@ -168,8 +168,8 @@
                                 <div class="left-text">
                                   <h4>Como funciona</h4>
                                   <p>Neste espaço, você vai descobrir o funcionamento do sistema Socializa Plus, que tem como objetivo impulsionar suas redes sociais. Possuímos uma comunidade de usuários que são remunerados para seguir, dar likes, comentar e realizar outras interações conforme seus interesses pessoais. Conheça todas as opções</p>
-                                  <div class="ticks-list"><span><i class="fa fa-check"></i> Instagram</span> <span><i class="fa fa-check"></i> Tik Tok</span> <span><i class="fa fa-check"></i> Facebook</span>
-                                    <span><i class="fa fa-check"></i> Kwai</span> <span><i class="fa fa-check"></i> Twitch</span> <span><i class="fa fa-check"></i> E outros</span></div> 
+                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> Instagram</span> <span><i class="fa fa-check-circle"></i> Tik Tok</span> <span><i class="fa fa-check-circle"></i> Facebook</span>
+                                    <span><i class="fa fa-check-circle"></i> Kwai</span> <span><i class="fa fa-check-circle"></i> Twitch</span> <span><i class="fa fa-check-circle"></i> E outros</span></div> 
                                   <p>Dessa forma, as interações se tornam genuínas e autênticas. </p>
                                 </div>
                               </div>
@@ -190,8 +190,8 @@
                                 <div class="left-text">
                                   <h4>Por Que Impulsiona?</h4>
                                   <p>Esta é uma excelente tática para quem busca ampliar o engajamento, expor sua marca a um público mais amplo, incrementar sua visibilidade e credibilidade no ambiente digital. Conheça todas as opções</p>
-                                  <div class="ticks-list"><span><i class="fa fa-check"></i> Seguidores</span> <span><i class="fa fa-check"></i> Curtidas</span> <span><i class="fa fa-check"></i> Visualizações</span>
-                                    <span><i class="fa fa-check"></i> Comentarios</span> <span><i class="fa fa-check"></i> Metricas Socias</span> <span><i class="fa fa-check"></i> E outros</span></div>
+                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> Seguidores</span> <span><i class="fa fa-check-circle"></i> Curtidas</span> <span><i class="fa fa-check-circle"></i> Visualizações</span>
+                                    <span><i class="fa fa-check-circle"></i> Comentarios</span> <span><i class="fa fa-check-circle"></i> Metricas Socias</span> <span><i class="fa fa-check-circle"></i> E outros</span></div>
                                   <p>Este é o ponto de partida para alavancar sua carreira ou empreendimento.</p>
                                 </div>
                               </div>
@@ -212,8 +212,8 @@
                                 <div class="left-text">
                                   <h4>Somente o que Precisa</h4>
                                   <p>Cade serviço tem sua quantidade mínima e seu tempo de entregar, o melhor de tudo que você pode escolher a quantidade que deseja basta clicar no número de exibição e edita. Com isso você tem:</p>
-                                  <div class="ticks-list"><span><i class="fa fa-check"></i> Praticidade</span> <span><i class="fa fa-check"></i> Rapidez</span> <span><i class="fa fa-check"></i> Economizar</span>
-                                    <span><i class="fa fa-check"></i> Agilidade</span> <span><i class="fa fa-check"></i> Controle</span> <span><i class="fa fa-check"></i> E entre outros</span></div>
+                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> Praticidade</span> <span><i class="fa fa-check-circle"></i> Rapidez</span> <span><i class="fa fa-check-circle"></i> Economizar</span>
+                                    <span><i class="fa fa-check-circle"></i> Agilidade</span> <span><i class="fa fa-check-circle"></i> Controle</span> <span><i class="fa fa-check-circle"></i> E entre outros</span></div>
                                   <p>Impulsione agora mesmo suas redes sócias</p>
                                 </div>
                               </div>
@@ -234,7 +234,7 @@
                                 <div class="left-text">
                                   <h4>Funciona 24 horas por dia</h4>
                                   <p>NNosso site é tontamente automático, apos o pagamento nosso sistema inicia o preparo do seu pedido, o prazo de entrega é de 24 horas. Formas de pagamentos </p>
-                                  <div class="ticks-list"><span><i class="fa fa-check"></i> PIX</span> <span><i class="fa fa-check"></i> Cartão de creditos</span></div>
+                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> PIX</span> <span><i class="fa fa-check-circle"></i> Cartão de creditos</span></div>
                                   <p>Apos o pagamento você consegue acompanha na área do cliente.</p>
                                 </div>
                               </div>
@@ -282,8 +282,7 @@
                     <img src="{{asset("web_assets/img/1.png")}}" alt="" >
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Twitch</h4>
                   </div>
                 </div>
                 </a>  
@@ -295,8 +294,7 @@
                     <img src="{{asset("web_assets/img/2.png")}}" alt="" >
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>YouTube</h4>
                   </div>
                 </div>
                 </a>  
@@ -308,8 +306,7 @@
                     <img src="{{asset("web_assets/img/3.png")}}" alt="" >
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Tik Tok</h4>
                   </div>
                 </div>
                 </a>  
@@ -321,8 +318,7 @@
                     <img src="{{asset("web_assets/img/4.png")}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Instagram</h4>
                   </div>
                 </div>
                 </a>  
@@ -334,8 +330,7 @@
                     <img src="{{asset("web_assets/img/5.png")}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Spotify</h4>
                   </div>
                 </div>
                 </a>  
@@ -347,8 +342,7 @@
                     <img src="{{asset("web_assets/img/7.png")}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Kwai</h4>
                   </div>
                 </div>
                 </a>  
@@ -360,8 +354,31 @@
                     <img src="{{asset("web_assets/img/6.png")}}" alt="">
                   </div>
                   <div class="down-content">
-                    <h4>Website Builder</h4>
-                    <span>Marketing</span>
+                    <h4>Facebook</h4>
+                  </div>
+                </div>
+                </a>  
+              </div>
+              <div class="item">
+                <a href="#">
+                  <div class="portfolio-item">
+                  <div class="thumb">
+                    <img src="{{asset("web_assets/img/2.png")}}" alt="" >
+                  </div>
+                  <div class="down-content">
+                    <h4>Rumble</h4>
+                  </div>
+                </div>
+                </a>  
+              </div>
+              <div class="item">
+                <a href="#">
+                  <div class="portfolio-item">
+                  <div class="thumb">
+                    <img src="{{asset("web_assets/img/2.png")}}" alt="" >
+                  </div>
+                  <div class="down-content">
+                    <h4>X Twitte</h4>
                   </div>
                 </div>
                 </a>  

@@ -50,6 +50,16 @@
 </head>
 <body>
 
+<section class="sub">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <p>Impulsione sua rede social e tenha mais Alcance! 🚀</p>
+            </div>
+        </div>
+    </div>
+</section>
+
     <?php 
         // echo asset("web_assets/css/fontawesome.css");
     // die; 

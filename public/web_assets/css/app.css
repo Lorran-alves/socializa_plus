@@ -63,9 +63,9 @@ h4{
 
 
 span{
-	font-family: 'Manrope';
+	font-family: 'Poppins', sans-serif;
 	font-style: normal;
-	font-weight: 300;
+	font-weight: 150;
 	font-size: 16px;
 	line-height: 25px;
 	color: #9A9A9A;
@@ -116,8 +116,8 @@ button{
 
 /********** HEADER ****************/
 .sub{
-	padding-top: 120px;
-	padding-bottom: 25px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 
 
@@ -147,11 +147,8 @@ nav li button:hover{
 	background-color: #932753;
 	color: #FFF;
 }
-#dropdownMenuButton1 {
-	outline: none;
-}
 nav li button i{
-	color: #FE664E;
+	color: #FF6E03;
 }
 
 li a {
@@ -160,7 +157,7 @@ li a {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 24px;
-	color: #333 !important;
+	color: #FFF !important;
 }
 
 
@@ -173,7 +170,7 @@ header{
 
 
 header button{
-	background: #FE664E;
+	background: #FF6E03;
 	border: none;
 }
 
@@ -256,7 +253,7 @@ header h1, header p{
 
 
 .value-mais{
-	width: 250px;
+	width: 100%;
     margin: auto;
 }
 
@@ -271,12 +268,6 @@ header h1, header p{
 	color: #303030;
 }
 
-
-.icons{
-	margin-top: -40px;
-}
-
-
 .box{
 	padding: 25px;
 }
@@ -289,9 +280,12 @@ header h1, header p{
 }
 
 .value .purchase-button{
-	background: #FE664E;
-	/* background: black; */
+	background: #FF6E03;
+	border-radius: 15px;
 	border: none;
+	height: 40px;
+	width: 170px;
+	margin-bottom: 25px;
 }
 
 
@@ -479,7 +473,7 @@ footer a:hover{
 	margin-top: 50px;
 }
 .cancelado h4 {
-	color: #FE664E;
+	color: #FF6E03;
 }
 .status0 {
 	background: linear-gradient(to right, #7C205D 5%, white 0);
@@ -543,7 +537,7 @@ footer a:hover{
     align-items: center;
 }
 i {
-    color:  white;
+    color:  #9A9A9A;
 }
 .button-contato i {
     color: #7C205D;
@@ -1038,22 +1032,41 @@ ul.ul-politicas li {
 	overflow-x: auto;
 }
 .button-nav{
-	background: white !important;
-    color: #fe664e !important;
-    border: 1px solid #fe664e !important;
+	background: black;
+    color: white;
 	border-radius: 20px;
+	height: auto;
+    padding: 10px;
+	border: none;
+	outline: 1px solid white;
 }
 
 .button-nav i{
-    color: #fe664e;
+    color: white;
 }
 
 .button-nav:hover{
-	color: white;
-    background: #fe664e;
-    border: 1px solid #FFF;
+	background-color: black;
+	color: #FF6E03 !important;
+    outline: 1px solid #FF6E03;
 }
 
 .button-nav:hover i{
-	color: #fe664e;
+	color: #FF6E03;
+}
+.container-products{
+	border-radius: 20px; 
+	padding: 0;
+}
+.logo-category{
+	background-color: #FF6E03;
+	height: 60px;
+	border-radius: 20px 20px 0 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.icons{
+	width: auto;
 }

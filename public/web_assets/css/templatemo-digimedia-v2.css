@@ -187,7 +187,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #fe664e;
+  color: #f15a25;
   text-transform: uppercase;
   margin-bottom: 15px;
 }
@@ -197,12 +197,14 @@ body {
   font-size: 35px;
   font-weight: 700;
   text-transform: capitalize;
+  font-family: 'Poppins', sans-serif;
   margin-bottom: 25px;
 }
 
 .section-heading h4 em {
   font-style: normal;
-  color: #fe664e;
+  font-family: 'Poppins', sans-serif;
+  color: #f15a25;
 }
 
 .section-heading .line-dec {
@@ -286,11 +288,11 @@ header
 }
 
 .pre-header ul.social-media li a:hover {
-  background-color: #fe664e;
+  background-color: #FF6E03;
 }
 
 .background-header {
-  background-color: #fff!important;
+  background-color: #000!important;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -305,7 +307,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fe664e;
+  color: #FF6E03;
 }
 
 .background-header .nav li a.active {
@@ -317,7 +319,7 @@ header
   position: absolute;
   width: 100%;
   height: 1px;
-  background-color: #fe664e;
+  background-color: #FF6E03;
   content: '';
   left: 50%;
   bottom: -20px;
@@ -329,7 +331,7 @@ header
 }
 
 .header-area {
-  background-color: #fff;
+  background-color: #000;
   box-shadow: 0px 5px 8px rgba(0,0,0,0.03);
   position: absolute;
   left: 0px;
@@ -955,7 +957,6 @@ About Style
 .progress > span {
   width: 50%;
   height: 100%;
-  overflow: hidden;
   position: absolute;
   top: 0;
   z-index: 1;
@@ -1167,6 +1168,10 @@ Services Style
 }
 
 .services .icon img {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
   margin-bottom: 10px;
   max-width: 60px;
   min-width: 60px;
@@ -1242,6 +1247,7 @@ Services Style
 }
 
 .services .nacc .thumb h4 {
+  font-family: 'Poppins', sans-serif;
   color: #2a2a2a;
   font-size: 20px;
   font-weight: 700;
@@ -1267,7 +1273,7 @@ Services Style
 .services .left-text h4 {
   font-size: 20px;
   font-weight: 700;
-  color: #fe664e !important;
+  color: #f15a25 !important;
 }
 
 .services .left-text p {
@@ -1275,6 +1281,7 @@ Services Style
 }
 
 .nacc .ticks-list span {
+  font-family: 'Poppins', sans-serif; 
   display: inline-block;
   opacity: 1;
   margin-right: 45px;
@@ -1295,6 +1302,7 @@ Free Quote
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  font-family: 'Poppins', sans-serif;
   padding: 120px 0px;
   text-align: center;
   position: relative;
@@ -1439,6 +1447,7 @@ Portfolio
 }
 
 .portfolio-item .down-content h4 {
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #2a2a2a;
@@ -1483,321 +1492,7 @@ Portfolio
 }
 
 
-/* 
----------------------------------------------
-Blog
---------------------------------------------- 
-*/
-
-.blog:before {
-  content: '';
-  background-repeat: no-repeat;
-  position: absolute;
-  left: 0;
-  top: 0px;
-  width: 961px;
-  height: 1020px;
-  z-index: 0;
-}
-
-.blog {
-  position: relative;
-  padding-top: 130px;
-}
-
-.blog .section-heading {
-  text-align: center;
-  margin-bottom: 80px;
-}
-
-.blog .section-heading .line-dec {
-  margin: 0 auto;
-}
-
-.blog-post {
-  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-  border-radius: 25px;
-}
-
-.show-up {
-  position: relative;
-  z-index: 200;
-}
-
-.blog-post .thumb img {
-  border-top-right-radius: 23px;
-  border-top-left-radius: 23px;
-}
-
-.blog-post .down-content {
-  border-bottom-right-radius: 23px;
-  border-bottom-left-radius: 23px;
-  background-color: #fff;
-  padding: 30px;
-}
-
-.blog-post .down-content span.category {
-  font-size: 15px;
-  color: #fff;
-  padding: 8px 12px;
-  background-color: #fe664e;
-  border-radius: 18px;
-  display: inline-block;
-}
-
-.blog-post .down-content span.date {
-  font-size: 15px;
-  color: #afafaf;
-  text-align: right;
-  float: right;
-  margin-top: 4px;
-}
-
-.blog-post .down-content h4 {
-  font-size: 20px;
-  font-weight: 700;
-  color: #2a2a2a;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  line-height: 30px;
-}
-
-.blog-post .down-content p {
-  margin-bottom: 30px;
-}
-
-.blog-post .down-content span.author {
-  font-size: 15px;
-  color: #2a2a2a;
-}
-
-.blog-post .down-content span.author img {
-  max-width: 56px;
-  border-radius: 50%;
-  margin-right: 15px;
-}
-
-.blog-post .down-content .border-first-button {
-  display: inline-block;
-  float: right;
-}
-
-.blog-posts {
-  margin-left: 30px;
-}
-
-.post-item {
-  margin-bottom: 62px;
-}
-
-.last-post-item {
-  margin-bottom: 0px;
-}
-
-.post-item .thumb {
-  display: inline-block;
-  float: left;
-  margin-right: 30px;
-}
-
-.post-item .thumb img {
-  border-radius: 23px;
-  display: inline-block;
-}
-
-.post-item .right-content {
-  padding-top: 20px;
-}
-
-.post-item .right-content span.category {
-  font-size: 15px;
-  color: #fff;
-  padding: 8px 12px;
-  background-color: #fe664e;
-  border-radius: 18px;
-  display: inline-block;
-}
-
-.post-item .right-content span.date {
-  font-size: 15px;
-  color: #afafaf;
-  text-align: right;
-  float: right;
-  margin-top: 4px;
-}
-
-.post-item .right-content h4 {
-  font-size: 20px;
-  font-weight: 700;
-  color: #2a2a2a;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  line-height: 30px;
-}
-
-
-/* 
----------------------------------------------
-contact
---------------------------------------------- 
-*/
-
-.contact-us {
-  padding-top: 130px;
-}
-
-.contact-us .section-heading .line-dec {
-  margin: 0 auto;
-}
-
-.contact-us .section-heading {
-  text-align: center;
-  margin-bottom: 80px;
-}
-
-
-form#contact:before {
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 726px;
-  height: 78px;
-  background-repeat: no-repeat;
-  content: '';
-  z-index: 1;
-}
-
-.contact-dec img {
-  max-width: 224px;
-  position: absolute;
-  right: 25px;
-  top: -242px;
-}
-
-form#contact:after {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 532px;
-  height: 106px;
-  background-repeat: no-repeat;
-  content: '';
-  z-index: 1;
-}
-
-form#contact {
-  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-  position: relative;
-  background-color: #fff;
-  border-radius: 23px;
-  text-align: center;
-}
-
-form#contact #map iframe {
-  border-top-left-radius: 23px;
-  border-bottom-left-radius: 23px;
-  margin-bottom: -7px;
-  position: relative;
-  z-index: 2;
-}
-
-.fill-form {
-  padding: 80px 60px 80px 30px;
-}
-
-.fill-form .info-post {
-  margin-bottom: 20px;
-}
-
-.fill-form .icon {
-  text-align: center;
-  box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-  border-radius: 23px;
-  padding: 25px 15px;
-}
-
-.fill-form .icon img {
-  max-width: 60px;
-  display: block;
-  margin: 0 auto;
-}
-
-.fill-form .icon a {
-  margin-top: 15px;
-  display: inline-block;
-  font-size: 15px;
-  font-weight: 500;
-  color: #2a2a2a;
-  transition: all .3s;
-}
-
-.fill-form .icon:hover a {
-  color: #fe664e;
-}
-
-form#contact input {
-  width: 100%;
-  height: 46px;
-  background-color: transparent;
-  border: 1px solid #eee;
-  outline: none;
-  font-size: 15px;
-  font-weight: 300;
-  color: #2a2a2a;
-  padding: 0px 20px;
-  border-radius: 23px;
-  margin-top: 30px;
-}
-
-form#contact input::placeholder {
-  color: #aaa;
-}
-
-form#contact textarea {
-  width: 100%;
-  min-width: 100%;
-  max-width: 100%;
-  max-height: 200px;
-  min-height: 200px;
-  height: 200px;
-  border-radius: 23px;
-  background-color: transparent;
-  border: 1px solid #eee;
-  outline: none;
-  font-size: 15px;
-  font-weight: 300;
-  color: #2a2a2a;
-  padding: 15px 20px;
-  margin-top: 30px;
-}
-
-form#contact textarea::placeholder {
-  color: #aaa;
-}
-
-form#contact button {
-  display: inline-block;
-  background-color: #fff;
-  font-size: 15px;
-  font-weight: 400;
-  color: #fe664e;
-  margin-top: 30px;
-  width: 100%;
-  text-transform: capitalize;
-  padding: 12px 25px;
-  border-radius: 23px;
-  letter-spacing: 0.25px;
-  border: 1px solid #fe664e;
-  transition: all .3s;
-  outline: none;
-}
-
-form#contact button:hover {
-  background-color: #fe664e!important;
-  color: #fff!important;
-}
-
-/* 
+/*
 ---------------------------------------------
 Footer Style
 --------------------------------------------- 
@@ -1807,17 +1502,21 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-top: 130px;
+  margin-top: 20px;
+  padding-top: 75px;
 }
 
 footer p {
-  text-align: center;
-  margin: 20px 0px;
-  color: #fff;
+    font-family: 'Poppins' !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 185%;
+    color: #9A9A9A;
 }
 
 footer p a {
-  color: #fff;
+  color: #afafaf;
   transition: all .5s;
 }
 

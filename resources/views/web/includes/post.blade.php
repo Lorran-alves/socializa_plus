@@ -1,17 +1,16 @@
 <style>
     #ipt-value{
         height: 42px;
-        width: 100%;
         text-align: center;
-        border-radius: 5px;
-        background: #f7f7f7;
+        background: #FF6E03;
         border: 1px solid #dddddd;
+        border-radius: 15px;
         font-family: 'Manrope';
         font-style: normal;
         font-weight: 800;
         font-size: 16px;
         line-height: 25px;
-        color: #131313;
+        color: white;
     }
     button.voltar{
         width: 40px;
@@ -231,21 +230,24 @@
 @foreach($plans as $plan)
     <div class="col-lg-4 box">
         <div class="row">
-            <div class="col-lg-12 box_01">
-               <img class="icons" src="{{ $plan->category->image_icon }}">
+            <div class="col-lg-12 box_01 container-products">
+                <div class="logo-category ">
+                    <img class="icons" src="{{ $plan->category->image_icon }}">
+                </div>
+               
                 <h3>{{ $plan->title }}</h3>
 
                 <div class="row value-mais">
                     @if(!empty($plan->quantity_min))
-                        <div class="col-lg col-4">
+                        <div class="col-lg col-3">
                             <img class="plan-quantity-less" data-price="{{ $plan->price }}"
                                  data-quantity="{{ $plan->quantity_min }}" data-id="{{ $plan->id }}"
                                  src="{{ asset('web_assets/img/menos.svg') }}" style="cursor: pointer">
                         </div>
                     @endif
-                    <div class="col-lg col-4"><input id="ipt-value" @if(empty($plan->quantity_min))disabled @endif name="quantity_value" value="{{ $plan->quantity_min ?? $plan->quantity }}" data-mask="####0"></div>
+                    <div class="col-lg col-6"><input id="ipt-value" @if(empty($plan->quantity_min))disabled @endif name="quantity_value" value="{{ $plan->quantity_min ?? $plan->quantity }}" data-mask="####0"></div>
                     @if(!empty($plan->quantity_min))
-                        <div class="col-lg col-4">
+                        <div class="col-lg col-3">
                             <img class="plan-quantity-max" data-price="{{ $plan->price }}"
                                  data-quantity="{{ $plan->quantity_min ?? $plan->quantity }}" data-id="{{ $plan->id }}"
                                  src="{{ asset('web_assets/img/mais.svg') }}" style="cursor: pointer">
@@ -253,7 +255,7 @@
                     @endif
                 </div>
                 
-                <h4>R$ {{ $plan->convert_price }}</h4>
+                <h4 style="margin: 15px 0">R$ {{ $plan->convert_price }}</h4>
                 
                 <button 
                         onclick="alteraIcon(this,'{{ $plan->category->image_icon }}')"
@@ -264,11 +266,12 @@
                         data-islink="{{ $plan->type }}"
                         @if($plan->type == 4) cmnt="c" @endif >
                     Comprar Agora
-                    <i class="fas fa-arrow-right"></i></button>
+                    </button>
             </div>
         </div>
     </div>
 @endforeach
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <script>
