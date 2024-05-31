@@ -54,7 +54,7 @@ h3{
 h4{
 	font-family: 'Manrope';
 	font-style: normal;
-	font-weight: 800;
+	font-weight: 600;
 	font-size: 22px;
 	line-height: 25px;
 	color: #131313;
@@ -284,7 +284,7 @@ header h1, header p{
 	border-radius: 15px;
 	border: none;
 	height: 40px;
-	width: 170px;
+	width: 210px;
 	margin-bottom: 25px;
 }
 
@@ -811,7 +811,7 @@ table td{
 
 	h2 {
 	    font-size: 28px;
-	    line-height: 30px;
+	    line-height: 40px;
 	}
 
 	.container-info {
@@ -920,6 +920,32 @@ table td{
 @media(max-width: 900px) {
 	.hidden-mobile {
 		display: none;
+	}
+	.about-right-content p {
+		margin-bottom: 15px !important;
+	}
+	.services {
+		padding-top: 30px !important;
+	}
+	.services .section-heading {
+		margin-bottom: 20px !important;
+	}
+	.our-portfolio {
+		padding-top: 30px !important;
+	}
+	.our-portfolio .section-heading {
+		margin-bottom: 30px !important;
+	}
+	.owl-dots{
+		display: none;
+	}
+	footer {
+		padding-top: 10px !important;
+	}
+	.footer {
+		margin-top: 0;
+		padding: 10px 0 20px;
+		margin-bottom: 0;
 	}
 }
 @media(max-width: 650px) {
@@ -1059,9 +1085,9 @@ ul.ul-politicas li {
 	padding: 0;
 }
 .logo-category{
-	background-color: #FF6E03;
+	background-color: #FFFFFF;
 	height: 60px;
-	border-radius: 20px 20px 0 0;
+	border-radius: 10px 10px 0 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;

@@ -17,7 +17,7 @@
                     </div>
                     <div class="col-lg-12">
                       <div class="border-first-button scroll-to-section">
-                        <a href="#contact">Turbina Agora</a>
+                        <a href="#portfolio">Turbina Agora</a>
                       </div>
                     </div>
                   </div>
@@ -52,59 +52,9 @@
                     <div class="line-dec"></div>
                   </div>
                   <p>Usamos estratégia endossada por diversos profissionais de marketing, pois auxilia no aumento do seu alcance de forma direta, ágil e eficaz. A Socializa Plus valoriza a sua segurança e a excelência dos nossos serviços. É o momento de elevar o nível das suas redes sociais.</p>
-                  <div class="row">
-                    <div class="col-lg-4 col-sm-4">
-                      <div class="skill-item first-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                        <div class="progress" data-percentage="100">
-                          <span class="progress-left">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <span class="progress-right">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <div class="progress-value">
-                            <div>
-                              100%<br>
-                              <span>Resultados Rápidos</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-4">
-                      <div class="skill-item second-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                        <div class="progress" data-percentage="100">
-                          <span class="progress-left">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <span class="progress-right">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <div class="progress-value">
-                            <div>
-                              100%<br>
-                              <span>Seguro e Sigiloso</span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-4">
-                      <div class="skill-item third-skill-item wow fadeIn" data-wow-duration="1s" data-wow-delay="0s">
-                        <div class="progress" data-percentage="100">
-                          <span class="progress-left">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <span class="progress-right">
-                            <span class="progress-bar"></span>
-                          </span>
-                          <div class="progress-value">
-                            <div>
-                              100%<br>
-                              <span>Satisfação Garantida</span>
-                            </div>
-                          </div>
-                        </div>
+                    <div class="col-lg-12">
+                      <div class="border-first-button scroll-to-section">
+                        <a href="#portfolio">Turbina Agora</a>
                       </div>
                     </div>
                   </div> 
@@ -276,7 +226,7 @@
           <div class="col-lg-12">
             <div class="loop owl-carousel">
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-sua-twitch">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/1.png")}}" alt="" >
@@ -288,7 +238,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-youtube">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/2.png")}}" alt="" >
@@ -300,7 +250,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-tik-tok">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/3.png")}}" alt="" >
@@ -312,7 +262,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-instagram">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/4.png")}}" alt="">
@@ -324,7 +274,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-spotify">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/5.png")}}" alt="">
@@ -336,7 +286,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-kwai">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/7.png")}}" alt="">
@@ -348,7 +298,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-facebook">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/6.png")}}" alt="">
@@ -360,7 +310,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-rumble">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/2.png")}}" alt="" >
@@ -372,7 +322,7 @@
                 </a>  
               </div>
               <div class="item">
-                <a href="#">
+                <a href="https://socializaplus.com.br/impulsione-seu-x-twitter">
                   <div class="portfolio-item">
                   <div class="thumb">
                     <img src="{{asset("web_assets/img/2.png")}}" alt="" >
