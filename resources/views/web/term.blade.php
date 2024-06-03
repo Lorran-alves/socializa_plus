@@ -19,12 +19,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mauto">
-                    <h2 class="menor">Termos de Serviços e Utilização da Seguir Play</h2>
+                    <h2 class="menor">Termos de Serviços e Utilização da Socializa Plus</h2>
                     <p>ATUALIZADA EM 14 DE FEVEREIRO DE 2024<p>
                     <p class="cor-site">Por favor, leia com a devida atenção os Termos e Condições de Uso dos nossos serviços.</p>
 
                     <p>
-                        A <span class="cor-site">SEGUIR PLAY</span> oferece serviços de engajamento em redes sociais, incluindo mas não limitado a, fornecimento de seguidores e likes, é imperativo que você, como potencial cliente, leia e compreenda completamente os Termos de Uso antes de efetuar qualquer transação. Os Termos de Uso delineiam as normas, diretrizes e políticas para a utilização dos serviços oferecidos.
+                        A <span class="cor-site">Socializa Plus</span> oferece serviços de engajamento em redes sociais, incluindo mas não limitado a, fornecimento de seguidores e likes, é imperativo que você, como potencial cliente, leia e compreenda completamente os Termos de Uso antes de efetuar qualquer transação. Os Termos de Uso delineiam as normas, diretrizes e políticas para a utilização dos serviços oferecidos.
                     </p>
 
                     
@@ -32,7 +32,7 @@
                     <p class="cor-site">1. Definições</p>
 
                     <p>
-                        <span class="cor-site">1.1. Website ou Site:</span> Refere-se ao portal eletrônico <a href="https://seguirplay.com/" class="cor-laranja">www.seguirplay.com</a>, de propriedade e operação da SEGUIR PLAY, onde os serviços descritos neste contrato são oferecidos.
+                        <span class="cor-site">1.1. Website ou Site:</span> Refere-se ao portal eletrônico <a href="https://socializaplus.com.br/" class="cor-laranja">www.socializaplus.com.br</a>, de propriedade e operação da Socializa Plus, onde os serviços descritos neste contrato são oferecidos.
                     </p>
 
                     <p>
@@ -44,12 +44,12 @@
                     </p>
 
                     <p>
-                       <span class="cor-site">Modo Público:</span> Configuração de privacidade na qual o perfil do usuário na rede social está acessível ao público em geral, permitindo a execução dos serviços contratados pela SEGUIR PLAY.
+                       <span class="cor-site">Modo Público:</span> Configuração de privacidade na qual o perfil do usuário na rede social está acessível ao público em geral, permitindo a execução dos serviços contratados pela Socializa Plus.
                     </p>
 
                     <p>
                         <span class="cor-site">1.4. Modo Privado:</span> Envolve todas as atividades que aumentam a interação entre o perfil do USUÁRIO e outros usuários nas redes sociais. Isso pode incluir, mas não se limita a, fornecimento de seguidores, curtidas, comentários e compartilhamentos. consequentemente, incompatível com a execução dos
-                        serviços contratados pela SEGUIR PLAY.
+                        serviços contratados pela Socializa Plus.
                     </p>
 
                     <p>
@@ -61,19 +61,19 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">1.7. USUÁRIO ou CLIENTE:</span> A pessoa física ou jurídica que efetua o cadastro no aplicativo de autoatendimento da SEGUIR PLAY e contrata os serviços ofertados.
+                        <span class="cor-site">1.7. USUÁRIO ou CLIENTE:</span> A pessoa física ou jurídica que efetua o cadastro no aplicativo de autoatendimento da Socializa Plus e contrata os serviços ofertados.
                     </p>
 
                     <p>
-                        <span class="cor-site">1.8. Termos de Uso:</span> Conjunto de normas e diretrizes que regem o uso dos serviços oferecidos pela SEGUIR PLAY, disponíveis para consulta no Website.
+                        <span class="cor-site">1.8. Termos de Uso:</span> Conjunto de normas e diretrizes que regem o uso dos serviços oferecidos pela Socializa Plus, disponíveis para consulta no Website.
                     </p>
 
                     <p>
-                        <span class="cor-site">1.9. Serviços:</span> Todos os produtos e atividades ofertadas pela SEGUIR PLAY, descritos neste contrato e no Website. 
+                        <span class="cor-site">1.9. Serviços:</span> Todos os produtos e atividades ofertadas pela Socializa Plus, descritos neste contrato e no Website. 
                     </p>
 
                     <p>
-                        <span class="cor-site">1.10. Cadastro:</span> Atividade pela qual o USUÁRIO fornece suas informações pessoais para utilização dos serviços oferecidos pela SEGUIR PLAY.  
+                        <span class="cor-site">1.10. Cadastro:</span> Atividade pela qual o USUÁRIO fornece suas informações pessoais para utilização dos serviços oferecidos pela Socializa Plus.  
                     </p>
 
                     <p>
@@ -82,21 +82,21 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">1.12. Contrato:</span> Este documento legal, incluindo todos os seus anexos, adendos, e os Termos de Uso, que regula a relação entre a SEGUIR PLAY e o USUÁRIO.
+                        <span class="cor-site">1.12. Contrato:</span> Este documento legal, incluindo todos os seus anexos, adendos, e os Termos de Uso, que regula a relação entre a Socializa Plus e o USUÁRIO.
                     </p>
 
                     <p>
-                        <span class="cor-site">1.13. Pagamento:</span> Transação financeira efetuada pelo USUÁRIO para adquirir os serviços da SEGUIR PLAY.
+                        <span class="cor-site">1.13. Pagamento:</span> Transação financeira efetuada pelo USUÁRIO para adquirir os serviços da Socializa Plus.
                     </p>
 
                     <p>
-                        <span class="cor-site">1.14. Plataforma de Autoatendimento:</span> Interface digital onde o USUÁRIO pode contratar serviços, consultar informações e gerir sua conta com a SEGUIR PLAY.
+                        <span class="cor-site">1.14. Plataforma de Autoatendimento:</span> Interface digital onde o USUÁRIO pode contratar serviços, consultar informações e gerir sua conta com a Socializa Plus.
                     </p>
 
                     <p class="cor-site">2. Serviços Oferecidos</p>
 
                     <p>
-                        <span class="cor-site">2.1. </span>  A SEGUIR PLAY é especializada na prestação de serviços "imateriais" e/ou de marketing digital em redes sociais.
+                        <span class="cor-site">2.1. </span>  A Socializa Plus é especializada na prestação de serviços "imateriais" e/ou de marketing digital em redes sociais.
                     </p>
 
                     <p>
@@ -108,7 +108,7 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">2.4. </span>  A SEGUIR PLAY não assume responsabilidade por suspensões de contas ou exclusões de conteúdo realizadas pelas plataformas de redes sociais.
+                        <span class="cor-site">2.4. </span>  A Socializa Plus não assume responsabilidade por suspensões de contas ou exclusões de conteúdo realizadas pelas plataformas de redes sociais.
                     </p>
 
 
@@ -116,31 +116,31 @@
 
 
                     <p>
-                        <span class="cor-site">3.1. </span>  A utilização dos serviços oferecidos pela SEGUIR PLAY é restrita a usuários <span class="cor-site">maiores de 18 anos</span>. Usuários menores de 18 anos estão <span class="cor-site">proibidos</span> de contratar os serviços. 
+                        <span class="cor-site">3.1. </span>  A utilização dos serviços oferecidos pela Socializa Plus é restrita a usuários <span class="cor-site">maiores de 18 anos</span>. Usuários menores de 18 anos estão <span class="cor-site">proibidos</span> de contratar os serviços. 
                     </p>
                     <p>
-                        <span class="cor-site">3.1.1. </span> Em casos de violação, fraude ou descumprimento das presentes condições, a SEGUIR PLAY reserva-se o direito de encerrar a conta do usuário prontamente, sem necessidade de notificação prévia.
+                        <span class="cor-site">3.1.1. </span> Em casos de violação, fraude ou descumprimento das presentes condições, a Socializa Plus reserva-se o direito de encerrar a conta do usuário prontamente, sem necessidade de notificação prévia.
                     </p>
 
 
                     <p class="cor-site">4. Aceitação dos Termos</p>
 
                     <p>
-                        <span class="cor-site">4.1. </span>  Ao completar o cadastro e aceitar expressamente os termos deste contrato, o usuário afirma ter lido e compreendido integralmente o presente documento, consolidando assim um vínculo contratual efetivo e plenamente válido com a SEGUIR PLAY.
+                        <span class="cor-site">4.1. </span>  Ao completar o cadastro e aceitar expressamente os termos deste contrato, o usuário afirma ter lido e compreendido integralmente o presente documento, consolidando assim um vínculo contratual efetivo e plenamente válido com a Socializa Plus.
                     </p>
 
                     <p>
-                        <span class="cor-site">4.1.1 </span>  Caso <span class="cor-site">não</span> esteja de acordo com os termos e condições aqui estabelecidos, fica impedido de contratar os serviços oferecidos pela SEGUIR PLAY.
+                        <span class="cor-site">4.1.1 </span>  Caso <span class="cor-site">não</span> esteja de acordo com os termos e condições aqui estabelecidos, fica impedido de contratar os serviços oferecidos pela Socializa Plus.
                     </p>
 
 
                     <p class="cor-site">5. Termos de Utilização e Restrições</p>
 
                     <p>
-                        <span class="cor-site">5.1. </span>A conta destinatária dos serviços contratados deve ter suas configurações de privacidade ajustadas para o modo "<span class="cor-site">público</span>", permitindo que a <span class="cor-site">SEGUIR PLAY</span> execute os serviços contratados, como fornecimento de seguidores ou likes. Contas com configurações de privacidade em "privado" não são compatíveis com a execução dos serviços.
+                        <span class="cor-site">5.1. </span>A conta destinatária dos serviços contratados deve ter suas configurações de privacidade ajustadas para o modo "<span class="cor-site">público</span>", permitindo que a <span class="cor-site">Socializa Plus</span> execute os serviços contratados, como fornecimento de seguidores ou likes. Contas com configurações de privacidade em "privado" não são compatíveis com a execução dos serviços.
                     </p>
                     <p>
-                        <span class="cor-site">5.1.1. </span>Caso ocorra alterações no link do perfil ou modificação para modo "privado" após a contratação dos serviços excluem a possibilidade de reposição ou reembolso por parte da SEGUIR PLAY.
+                        <span class="cor-site">5.1.1. </span>Caso ocorra alterações no link do perfil ou modificação para modo "privado" após a contratação dos serviços excluem a possibilidade de reposição ou reembolso por parte da Socializa Plus.
                     </p>
                     <p>
                         <span class="cor-site">5.2. </span>O cliente é responsável por assegurar que o perfil ou a postagem destinados a receber os serviços estejam configurados em modo público e que o URL fornecido esteja correto. Pedidos realizados sem atender a essas condições serão considerados como cumpridos, com consequente débito do saldo do cliente, e não serão passíveis de reembolso.
@@ -169,16 +169,16 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">6.1.4.1 </span>Em caso de violação, a SEGUIR PLAY reserva-se o
+                        <span class="cor-site">6.1.4.1 </span>Em caso de violação, a Socializa Plus reserva-se o
                         direito de <span class="cor-site">suspender ou encerrar</span> a conta do usuário, sem a possibilidade de criação de uma nova conta na plataforma.
                     </p>
 
                     <p>
-                        <span class="cor-site">6.2. </span>A SEGUIR PLAY não será responsável por quaisquer prejuízos resultantes de acessos  <span class="cor-site">não</span> autorizados ou uso da conta do Usuário por terceiros.
+                        <span class="cor-site">6.2. </span>A Socializa Plus não será responsável por quaisquer prejuízos resultantes de acessos  <span class="cor-site">não</span> autorizados ou uso da conta do Usuário por terceiros.
                     </p>
 
                     <p>
-                        <span class="cor-site">6.3. </span>Estes Termos de Uso não estabelecem nenhum caráter de exclusividade entre o SEGUIR PLAY e o Usuário
+                        <span class="cor-site">6.3. </span>Estes Termos de Uso não estabelecem nenhum caráter de exclusividade entre o Socializa Plus e o Usuário
                     </p>
 
 
@@ -201,7 +201,7 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">7.5. </span>A SEGUIR PLAY compromete-se a entregar o pedido em um prazo máximo de 7 dias após a solicitação, exceto para serviços relacionados ao YouTube.
+                        <span class="cor-site">7.5. </span>A Socializa Plus compromete-se a entregar o pedido em um prazo máximo de 7 dias após a solicitação, exceto para serviços relacionados ao YouTube.
                     </p>
 
                     <p>
@@ -283,15 +283,15 @@
                     <p class="cor-site">9. Pagamento</p>
         
                     <p>
-                        <span class="cor-site">9.1. </span>O acesso gratuito para compreender o funcionamento da SEGUIR PLAY está disponível. Caso deseje continuar utilizando os serviços da plataforma, será necessário efetuar o pagamento.
+                        <span class="cor-site">9.1. </span>O acesso gratuito para compreender o funcionamento da Socializa Plus está disponível. Caso deseje continuar utilizando os serviços da plataforma, será necessário efetuar o pagamento.
                     </p>
 
                     <p>
-                        <span class="cor-site">9.1.1. </span>As opções de pagamento aceitas incluem Mercado Pago, A plataforma SEGUIR PLAY dispõe de uma ferramenta automatizada de pagamento. É importante observar que pagamentos realizados por meio do Mercado Pago estarão sujeitos a uma taxa de acordo com a política vigente. Transferência Bancária ou PIX.
+                        <span class="cor-site">9.1.1. </span>As opções de pagamento aceitas incluem Mercado Pago, A plataforma Socializa Plus dispõe de uma ferramenta automatizada de pagamento. É importante observar que pagamentos realizados por meio do Mercado Pago estarão sujeitos a uma taxa de acordo com a política vigente. Transferência Bancária ou PIX.
                     </p>
 
                     <p>
-                        <span class="cor-site">9.2. </span>A plataforma SEGUIR PLAY dispõe de uma ferramenta
+                        <span class="cor-site">9.2. </span>A plataforma Socializa Plus dispõe de uma ferramenta
                         automatizada de pagamento.
                     </p>
 
@@ -321,7 +321,7 @@
                         não proceda com a contratação</span>. Recomendamos que entre em contato conosco para esclarecer quaisquer dúvidas que possa ter.
                     </p>
                     <p>
-                        <span class="cor-site">10.4.1 </span>Para esse fim, a SEGUIR PLAY disponibiliza um canal de comunicação via <a href="https://typebot.io/seguirplay" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@seguirplay.com" class="cor-laranja">contato@seguirplay.com</a>.
+                        <span class="cor-site">10.4.1 </span>Para esse fim, a Socializa Plus disponibiliza um canal de comunicação via <a href="https://typebot.io/socializaplus" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@seguirplay.com" class="cor-laranja">contato@seguirplay.com</a>.
                         
                     </p>
 
@@ -331,7 +331,7 @@
 
 
                     <p>
-                        <span class="cor-site">11.1. </span>Em virtude de nossos processos de melhoria contínua e adaptação às novas tecnologias, <span class="cor-site">A SEGUIR PLAY<span></span> o direito unilateral de modificar os presentes Termos de Uso a qualquer momento.
+                        <span class="cor-site">11.1. </span>Em virtude de nossos processos de melhoria contínua e adaptação às novas tecnologias, <span class="cor-site">A Socializa Plus<span></span> o direito unilateral de modificar os presentes Termos de Uso a qualquer momento.
                     </p>
                     <p>
                         <span class="cor-site">11.1.1. </span>A aceitação se concretizará eletronicamente por meio de um "checkbox", e o usuário só poderá proceder com a compra caso concorde expressamente com os termos.
@@ -349,7 +349,7 @@
 
 
                     <p>
-                        <span class="cor-site">12.1. </span> A SEGUIR PLAY oferece serviços destinados a fortalecer sua visibilidade e engajamento nas redes sociais. Contudo, faz-se necessário esclarecer que a empresa não pode assegurar que a utilização dos nossos serviços resultará em <span class="cor-site">monetização</span> ou <span class="cor-site">retorno financeiro</span> nas suas respectivas contas de redes sociais. As plataformas de redes sociais estão sujeitas a diversos fatores e variáveis externas, que fogem ao nosso controle, tais como:
+                        <span class="cor-site">12.1. </span> A Socializa Plus oferece serviços destinados a fortalecer sua visibilidade e engajamento nas redes sociais. Contudo, faz-se necessário esclarecer que a empresa não pode assegurar que a utilização dos nossos serviços resultará em <span class="cor-site">monetização</span> ou <span class="cor-site">retorno financeiro</span> nas suas respectivas contas de redes sociais. As plataformas de redes sociais estão sujeitas a diversos fatores e variáveis externas, que fogem ao nosso controle, tais como:
                     </p>
                     <p>
                         <span class="cor-site">12.1.1 </span> Mudanças nos algoritmos das plataformas;
@@ -363,12 +363,12 @@
                     </p>
 
                     <p>
-                        <span class="cor-site">12.2. </span> A SEGUIR PLAY se empenha em fornecer orientações e
+                        <span class="cor-site">12.2. </span> A Socializa Plus se empenha em fornecer orientações e
                         suporte específicos para ampliar as possibilidades de monetização no YouTube, respeitando integralmente as políticas e requisitos estabelecidos pela plataforma
                     </p>
 
                     <p>
-                        <span class="cor-site">12.2.1. </span> Outrossim, ressalta-se que a monetização no YouTube é condicionada a fatores individuais e circunstâncias variáveis, circunstância que limita a capacidade da SEGUIR PLAY de assegurar retornos financeiros significativos.
+                        <span class="cor-site">12.2.1. </span> Outrossim, ressalta-se que a monetização no YouTube é condicionada a fatores individuais e circunstâncias variáveis, circunstância que limita a capacidade da Socializa Plus de assegurar retornos financeiros significativos.
                     </p>
                     <p>
                         <span class="cor-site">12.3. </span>  Aqui, nosso objetivo principal não é apenas atingir metas financeiras, mas também promover um ambiente de aprendizado, desenvolvimento pessoal e conexão com uma comunidade de criativos. Nós fornecemos orientação e recursos para ajudá-lo a entender os requisitos e critérios para se qualificar para o programa de monetização do YouTube. No entanto, nosso foco vai além do dinheiro. Queremos que você cresça como criador, construa uma audiência engajada e desenvolva habilidades valiosas ao longo do caminho.
@@ -392,28 +392,28 @@
                         <span class="cor-site">12.3.6. </span> Crescimento Pessoal: Estamos aqui para ajudá-lo a desenvolver habilidades de comunicação, marketing e gestão de tempo que serão úteis não apenas no YouTube, mas em qualquer empreendimento criativo.
                     </p>
                     <p>
-                        <span class="cor-site">12.4  </span> Para esse fim, a SEGUIR PLAY disponibiliza um canal de comunicação via <a href="https://typebot.io/seguirplay" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@seguirplay.com" class="cor-laranja">contato@seguirplay.com</a>.
+                        <span class="cor-site">12.4  </span> Para esse fim, a Socializa Plus disponibiliza um canal de comunicação via <a href="https://typebot.io/socializaplus" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@socializaplus.com.br" class="cor-laranja">contato@socializaplus.com.br</a>.
                         
                     </p>
 
                    <p class="cor-site">13.  Engajamento e Interação</p> 
                    <p>
-                    <span class="cor-site">13.1. </span>A SEGUIR PLAY oferece serviços de aumento de seguidores e inscritos em perfis e canais de redes sociais, com o entendimento de que a obtenção desses números não garante automaticamente interação ou engajamento significativo. Ao adquirir nossos serviços, o cliente reconhece e concorda com os seguintes termos:                        
+                    <span class="cor-site">13.1. </span>A Socializa Plus oferece serviços de aumento de seguidores e inscritos em perfis e canais de redes sociais, com o entendimento de que a obtenção desses números não garante automaticamente interação ou engajamento significativo. Ao adquirir nossos serviços, o cliente reconhece e concorda com os seguintes termos:                        
                     </p>
                     <p>
-                        <span class="cor-site">13.2. </span><span class="cor-site">Variação de Engajamento:</span> A SEGUIR PLAY não pode garantir um nível específico de interação ou engajamento por parte dos seguidores ou inscritos adquiridos. O engajamento pode variar dependendo do conteúdo postado, da estratégia de marketing utilizada e da relevância do perfil ou canal.
+                        <span class="cor-site">13.2. </span><span class="cor-site">Variação de Engajamento:</span> A Socializa Plus não pode garantir um nível específico de interação ou engajamento por parte dos seguidores ou inscritos adquiridos. O engajamento pode variar dependendo do conteúdo postado, da estratégia de marketing utilizada e da relevância do perfil ou canal.
                     </p>
                     <p>
                         <span class="cor-site">13.3. </span><span class="cor-site">Conteúdo Responsável:</span> O cliente é responsável por criar e manter conteúdo interessante e envolvente para atrair interação orgânica. A SEGUIRPLAY não tem controle sobre o tipo de conteúdo publicado pelo cliente e, portanto, não pode garantir resultados específicos.
                     </p>
                     <p>
-                        <span class="cor-site">13.4. </span><span class="cor-site">Políticas das Plataformas:</span> Os serviços da SEGUIR PLAY estão em conformidade com as políticas das plataformas de redes sociais. No entanto, alterações nas políticas das plataformas podem afetar a entrega de serviços, e a SEGUIR PLAY não pode ser responsabilizada por tais mudanças.
+                        <span class="cor-site">13.4. </span><span class="cor-site">Políticas das Plataformas:</span> Os serviços da Socializa Plus estão em conformidade com as políticas das plataformas de redes sociais. No entanto, alterações nas políticas das plataformas podem afetar a entrega de serviços, e a Socializa Plus não pode ser responsabilizada por tais mudanças.
                     </p>
                     <p>
-                        <span class="cor-site">13.5. </span><span class="cor-site">Garantia de Quantidade:</span> A SEGUIR PLAY compromete-se a entregar a quantidade de seguidores ou inscritos conforme acordado, mas não pode garantir a retenção a longo prazo. As flutuações naturais nas plataformas podem afetar o número total ao longo do tempo.
+                        <span class="cor-site">13.5. </span><span class="cor-site">Garantia de Quantidade:</span> A Socializa Plus compromete-se a entregar a quantidade de seguidores ou inscritos conforme acordado, mas não pode garantir a retenção a longo prazo. As flutuações naturais nas plataformas podem afetar o número total ao longo do tempo.
                     </p>
                     <p>
-                    <span class="cor-site">13.1. </span>Ao utilizar os serviços da SEGUIR PLAY, o cliente concorda com estes termos e reconhece que os resultados podem variar. Recomendamos que o cliente mantenha uma estratégia de conteúdo consistente e de alta qualidade para otimizar a interação e o engajamento.                        
+                    <span class="cor-site">13.1. </span>Ao utilizar os serviços da Socializa Plus, o cliente concorda com estes termos e reconhece que os resultados podem variar. Recomendamos que o cliente mantenha uma estratégia de conteúdo consistente e de alta qualidade para otimizar a interação e o engajamento.                        
                     </p>
                     
                     </p>
@@ -447,7 +447,7 @@
                         <span class="cor-site">14.6. </span> Como criadores de conteúdo, encorajamos a originalidade, a criatividade e o respeito aos direitos autorais e às políticas da plataforma. Embora não possamos garantir a monetização de conteúdo reutilizado, estamos comprometidos em fornecer suporte e orientação aos criadores em sua jornada no YouTube.
                     </p>
                     <p>
-                        <span class="cor-site">14.7. </span> Em última análise, é responsabilidade de cada criador compreender as nuances da plataforma e trabalhar dentro das diretrizes estabelecidas para alcançar o sucesso em seus empreendimentos no YouTube, a SEGUIR PLAY disponibiliza um canal de comunicação via <a href="https://typebot.io/seguirplay" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@seguirplay.com" class="cor-laranja">contato@seguirplay.com</a>.
+                        <span class="cor-site">14.7. </span> Em última análise, é responsabilidade de cada criador compreender as nuances da plataforma e trabalhar dentro das diretrizes estabelecidas para alcançar o sucesso em seus empreendimentos no YouTube, a Socializa Plus disponibiliza um canal de comunicação via <a href="https://typebot.io/seguirplay" class="cor-laranja">Chat Online</a> na plataforma, bem como através do endereço de e-mail <a href="mailto:contato@seguirplay.com" class="cor-laranja">contato@seguirplay.com</a>.
                     </p>
 
                     <p class="cor-site">15. Legislação Aplicável e Resolução de Controvérsias</p>
@@ -460,7 +460,7 @@
                         <span class="cor-site">15.2. </span>Fica eleito o foro da Comarca de Teresina, Piauí, como o único competente para dirimir eventuais controvérsias referentes à interpretação e ao cumprimento destes Termos de Uso, com renúncia de todos os outros, por mais especiais ou  privilegiados que sejam
                     </p>
                     <p>
-                        <span class="cor-site">15.2.1. </span>Antes de dar entrada a um processo legal formal, o Usuário poderá sempre contar com o suporte da equipe do SEGUIR PLAY para resolver seus problemas de forma mais ágil e não conflituosa, bastando entrar em contato através de qualquer dos nossos canais de atendimento.
+                        <span class="cor-site">15.2.1. </span>Antes de dar entrada a um processo legal formal, o Usuário poderá sempre contar com o suporte da equipe do Socializa Plus para resolver seus problemas de forma mais ágil e não conflituosa, bastando entrar em contato através de qualquer dos nossos canais de atendimento.
                     </p>
 
                 </div>
@@ -492,7 +492,7 @@
 
                 <div class="col-lg-3 container-info">
                     <h4>Trabalhamos <br> com outras redes!</h4>
-                    <a href="https://seguirplay.com/#planos"><button>Conheçer Planos</button></a>
+                    <a href="https://socializaplus.com.br/#portfolio"><button>Conheçer Planos</button></a>
                 </div>
 
             </div>

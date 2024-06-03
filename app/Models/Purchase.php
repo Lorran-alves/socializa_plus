@@ -23,8 +23,7 @@ class Purchase extends Model
         'termos_id',
         'politicas_id',
         'payment_id',
-        'payment_method',
-        'period',
+        'payment_method'
     ];
     public function plan()
     {

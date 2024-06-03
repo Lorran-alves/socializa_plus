@@ -396,7 +396,6 @@ header
 
 .header-area .main-nav .nav li:last-child {
   padding-right: 0px;
-  padding-left: 40px;
 }
 
 .header-area .main-nav .nav li:last-child a ,
@@ -651,7 +650,7 @@ header
 @media (max-width: 992px) {
   .header-area .main-nav .nav li:last-child  ,
   .background-header .main-nav .nav li:last-child {
-    display: none;
+    display: block;
   }
   .header-area .main-nav .nav li:nth-child(6),
   .background-header .main-nav .nav li:nth-child(6) {
@@ -889,7 +888,6 @@ Banner Style
 
 .main-banner .left-content p {
   margin-bottom: 30px;
-  margin-right: 45px;
 }
 
 .main-banner .right-image {
@@ -1479,8 +1477,9 @@ Portfolio
   font-size: 30px;
   background-color: #eee;
   border-radius: 50%;
-  color: #fff;
+  color: #000;
   transition: all 0.5s;
+  font-weight:bold;
 }
 
 .our-portfolio .owl-nav span:hover {

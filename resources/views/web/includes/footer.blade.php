@@ -18,7 +18,7 @@
 
             <div class="col-lg">
                 <h2>Informações</h2>
-                <a href="{{ route('web.faq') }}">Perguntas Frequentes</a>
+                <a href="https://typebot.co/socializaplus">Perguntas Frequentes</a>
                 <br><a href="{{ route('web.policies') }}">Políticas de privacidade</a>
                 <br><a href="{{ route('web.term') }}">Termos e Condições</a>
                 
@@ -49,29 +49,29 @@
         <a href="https://wa.me/5511985868006" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#781F60;color:#FFF;border-radius:50px;text-align:center;font-size:30px;" target="_blank">
             <i style="margin-top:15px; display: block" class="fa fa-whatsapp"></i> 
         
-        -->
         
         
-        <!-- Chat 
-        Confuso? Podemos esclarecer tudo para você! 
+        
+        <!--Chat 
+        Confuso? Podemos esclarecer tudo para você! -->
         
         <script type="module">
           import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0.1/dist/web.js'
         
           Typebot.initBubble({
-            typebot: "seguirplay",
+            typebot: "socializaplus",
             previewMessage: {
               avatarUrl:
                 "https://s3.fr-par.scw.cloud/typebot/public/typebots/clm98rbfr000fl60fdm561veh/hostAvatar?v=1694112967241",
             },
             theme: {
-              button: { backgroundColor: "#7D255D", size: "average" },
+              button: { backgroundColor: "#f15925", size: "average" },
               chatWindow: { backgroundColor: "#ffffff" },
             },
           });
         </script> 
         
--->
+
 
 
         </a>

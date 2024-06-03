@@ -16,7 +16,7 @@
                 <div class="card pt-4">
                     <div class="card-body">
                         <div class="text-center mb-5">
-                            <img src="{{ asset('dashboard_assets/images/logo.png') }}" height="48" class='mb-4'>
+                            <img src="{{ asset('web_assets/img/logo.png') }}" height="48" class='mb-4'>
                             <h3>Entrar</h3>
                             <p>Faça login para continuar</p>
                         </div>

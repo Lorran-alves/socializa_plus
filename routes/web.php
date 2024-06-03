@@ -109,15 +109,6 @@ Route::group(['prefix' => 'dashboard', 'as' => 'dashboard.'], function () {
             });
         });
 
-        // COMPRAS MONETIZA
-        Route::controller(MonetizaController::class)->group(function () {
-            Route::name('monetiza.')->group(function () {
-                Route::get('/monetiza/compras', 'index')->name('index');
-                Route::get('/monetiza/aprovar/{compra_id}', 'approved')->name('approved');
-                Route::delete('/monetiza/deletar/{compra_id}', 'destroy')->name('destroy');
-                Route::get('/gestaoMonetiza', 'gestaoMonetiza')->name('gestaoMonetiza');
-            });
-        });
     });
 });
 

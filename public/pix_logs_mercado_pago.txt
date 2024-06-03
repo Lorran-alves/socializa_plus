@@ -214,3 +214,597 @@
 3
 {"_token":"0zwv2V7n3ttXYhfEagNx2LFKYhC09etuNpg1sjDE","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
 =============================================================
+7896
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7897
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7898
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7899
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste.com","accept_email":"1","cupom":"RICARDO1010","quantity":"50","cmnt_q":null}
+=============================================================
+7900
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7901
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7902
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 1","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7903
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7904
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7905
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7906
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(55) 4 6566-56","profile":"https:\/\/teste.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+1
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(45) 4 541","profile":"https:\/\/teste.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+2
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(14) 5 15","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+3
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"teasdasda","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+4
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"seguirplay.br@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"sofiasantyny","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+5
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"seguirplay.br@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"w1111111111","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+6
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(51) 5","profile":"https:\/\/teste.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+7
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"seguirplay.br@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"https:\/\/www.instagram.com\/p\/Cn2jrLVycUm\/","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+8
+50
+0.0400
+50
+2
+2
+2
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+9
+50
+0.0600
+50
+3
+3
+3
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55+55+55+55+55(22) 2 2222-2222","profile":"https:\/\/www.instagram.com\/p\/Cn2jrLVycUm\/","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+10
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(81) 2 3123","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+14
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"https:\/\/www.instagram.com\/p\/Cn2jrLVycUm\/","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+15
+50
+0.0600
+50
+3
+3
+3
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+16
+50
+0.0600
+50
+3
+3
+3
+{"_token":"y2q4FPlPpw7lOSU57C9QEQGL9gujWQzzhYSGvAxr","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+19
+50
+0.0600
+50
+3
+3
+3
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+20
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"nQg0HouDDUzm4NMl8c6aTVgodfwglusndRnB5lwS","email":"teste@gmail.com","telefone":"+55(86) 9 8819-1916","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+21
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+23
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+25
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2312","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+27
+50
+0.0600
+50
+3
+3
+3
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 8 6988-9895","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+28
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"nQg0HouDDUzm4NMl8c6aTVgodfwglusndRnB5lwS","email":"teste@gmail.com","telefone":"+55(12) 3 4242-3554","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+31
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2312","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+33
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 213","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+35
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-23","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+36
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-23","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+37
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-23","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+38
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-23","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+39
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-23","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+40
+50
+0.3000
+50
+15
+15
+15
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+41
+50
+0.3000
+50
+15
+15
+15
+{"_token":"4GYN60r813DzKuOioajJuFCP2mqf1zpOlxUrUCIv","email":"socializaplus@socializaplus.com.br","telefone":"+55(86) 9 8819-1946","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+42
+50
+0.3000
+50
+15
+15
+15
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(86) 9 8819-1916","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+43
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+44
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+45
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+46
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+47
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+48
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+49
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+50
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+51
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+52
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+53
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1231-2","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+54
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+1
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(12) 3 1232-1321","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+2
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+3
+100
+0.0800
+100
+8
+8
+8
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(22) 2 2222-2222","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+4
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+5
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+6
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+7
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+8
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+9
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(22) 2 2222-2222","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+10
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+11
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"FE7nJqswjfKMPkcamQjBfz9mIHqGnj3ckNSKQ2ym","email":"teste@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"teste-seguirplay.com","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+13
+50
+0.0700
+50
+3.5
+3.5
+3.5
+{"_token":"9Mx4bayWlSGDBDQWxbdMSrfEGUNY1kBqDHVK6H04","email":"test@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"ajshddh","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+14
+50
+0.0700
+50
+3.5
+3.5
+3.5
+{"_token":"9Mx4bayWlSGDBDQWxbdMSrfEGUNY1kBqDHVK6H04","email":"test@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"ajshddh","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================

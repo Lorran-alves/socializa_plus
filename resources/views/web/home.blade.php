@@ -13,7 +13,7 @@
                     <div class="col-lg-12">
                       <h6>Socializa Plus</h6>
                       <h2>Destacar nas Redes Sociais</h2>
-                      <p>Se você está buscando ampliar seu alcance, aumentar o seu engajamento ou até mesmo impulsionar a sua autoridade na popular rede social, nós temos a solução que você precisa.</p>
+                      <p>Se você está buscando ampliar seu alcance, aumentar o seu engajamento ou até mesmo impulsionar a sua autoridade na cpopular rede social, nós temos a solução que você precisa.</p>
                     </div>
                     <div class="col-lg-12">
                       <div class="border-first-button scroll-to-section">
@@ -24,7 +24,7 @@
                 </div>
               </div>
               <div class="col-lg-6">
-                  <img src="{{asset('web_assets/img/hde10.png')}}" style="max-width: 109%;">
+                  <img src="{{asset('web_assets/img/hde10.png')}}" style="max-width: 100%;">
                 </div>
               </div>
             </div>
@@ -221,7 +221,7 @@
           </div>
         </div>
       </div>
-      <div class="container-fluid wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+      <div class="container-fluid wow fadeIn container" data-wow-duration="1s" data-wow-delay="0.7s">
         <div class="row">
           <div class="col-lg-12">
             <div class="loop owl-carousel">
@@ -229,7 +229,7 @@
                 <a href="https://socializaplus.com.br/impulsione-sua-twitch">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/1.png")}}" alt="" >
+                    <img src="{{asset("web_assets/img/icons/spot.png")}}" alt="" >
                   </div>
                   <div class="down-content">
                     <h4>Twitch</h4>
@@ -241,7 +241,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-youtube">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/2.png")}}" alt="" >
+                    <img src="{{asset("web_assets/img/icons/youtube.png")}}" alt="" >
                   </div>
                   <div class="down-content">
                     <h4>YouTube</h4>
@@ -253,7 +253,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-tik-tok">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/3.png")}}" alt="" >
+                    <img src="{{asset("web_assets/img/icons/tiktok.png")}}" alt="" >
                   </div>
                   <div class="down-content">
                     <h4>Tik Tok</h4>
@@ -265,7 +265,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-instagram">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/4.png")}}" alt="">
+                    <img src="{{asset("web_assets/img/icons/instagram.png")}}" alt="">
                   </div>
                   <div class="down-content">
                     <h4>Instagram</h4>
@@ -277,7 +277,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-spotify">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/5.png")}}" alt="">
+                    <img src="{{asset("web_assets/img/icons/twtv.png")}}" alt="">
                   </div>
                   <div class="down-content">
                     <h4>Spotify</h4>
@@ -289,7 +289,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-kwai">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/7.png")}}" alt="">
+                    <img src="{{asset("web_assets/img/icons/kwai.png")}}" alt="">
                   </div>
                   <div class="down-content">
                     <h4>Kwai</h4>
@@ -301,7 +301,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-facebook">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/6.png")}}" alt="">
+                    <img src="{{asset("web_assets/img/icons/facebook.png")}}" alt="">
                   </div>
                   <div class="down-content">
                     <h4>Facebook</h4>
@@ -313,7 +313,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-rumble">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/2.png")}}" alt="" >
+                    <img src="{{asset("web_assets/img/icons/rembl.png")}}" alt="" >
                   </div>
                   <div class="down-content">
                     <h4>Rumble</h4>
@@ -325,7 +325,7 @@
                 <a href="https://socializaplus.com.br/impulsione-seu-x-twitter">
                   <div class="portfolio-item">
                   <div class="thumb">
-                    <img src="{{asset("web_assets/img/2.png")}}" alt="" >
+                    <img src="{{asset("web_assets/img/icons/x.png")}}" alt="" >
                   </div>
                   <div class="down-content">
                     <h4>X Twitte</h4>

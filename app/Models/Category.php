@@ -42,7 +42,7 @@ class Category extends Model
         if($id == 1 or $id == 6){
             return asset('web_assets/img/icons/facebook.png');
         }elseif($id == 2){
-            return asset('web_assets/img/value-icon01.png');
+            return asset('web_assets/img/icons/instagram.png');
         }elseif($id == 3){
             return asset('web_assets/img/icons/kwai.png');
         }elseif($id == 4){

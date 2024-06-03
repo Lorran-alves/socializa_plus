@@ -1,16 +1,25 @@
 <style>
+
+    @font-face {
+        font-family: 'Inter-Black';
+        src: url('../fonts/Inter-Black.ttf');
+        font-weight: 900;
+        font-style: normal;
+    }
+
     #ipt-value{
         height: 42px;
         text-align: center;
-        background: #FF6E03;
+        background: white;
         border: 1px solid #dddddd;
         border-radius: 15px;
-        font-family: 'Manrope';
+        font-family: 'Poppins';
         font-style: normal;
         font-weight: 800;
         font-size: 16px;
         line-height: 25px;
-        color: white;
+        color: #FF6E03;
+        max-width: 95%;
     }
     button.voltar{
         width: 40px;
@@ -30,6 +39,11 @@
     .none {
         display: none
     }
+    .alinhar{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 </style>
 <!-- Modal -->
 <div class="modal fade" id="passo01" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
@@ -42,14 +56,14 @@
             <div class="modal-body text-center">
                 <img class="icons img-category" src="{{ asset('web_assets/img/value-icon01.png') }}">
                 <h2 id="title01">Digite seu nome de usuário</h2>
-                <p class="modal_paragraf">Tem duvidas como solitar o pedido entra no <a style="color:#781f60" href="https://typebot.io/seguirplay" target="_blank">Chat Online</a>
-                <p class="modal_paragraf"><a style="color:#781f60"target="_blank">ATENÇÃO!</a></p>
+                <p class="modal_paragraf">Tem duvidas como solitar o pedido entra no <a style="color:#FF6E03" href="https://typebot.io/seguirplay" target="_blank">Chat Online</a>
+                <p class="modal_paragraf"><a style="color:#FF6E03"target="_blank">ATENÇÃO!</a></p>
                 <p class="modal_paragraf">Em caso de seguidores, inscritos, lives, visualizações stories, horas assistidas e curtidas em páginas, coloque o link do canal ou perfil.</p>
                 <p class="modal_paragraf">Em caso de visualizações, curtidas, comentários, compartilhamentos, impressões e alcance, coloque o link da publicação ou vídeo.</p>
                 <p class="modal_paragraf">Prazo de até 24hrs para fazer a entrega dos serviços.</p>
                 <p class="modal_paragraf">Prazo de 10 Min à 20 Min para serviços em LIVES.</p>
-                <p class="modal_paragraf">Necessário que o <a style="color:#781f60"target="_blank">perfil ou canal</a> esteje em <a style="color:#781f60"target="_blank">MODO PÚBLICO.</a></p>
-                <p class="modal_paragraf">Ao solicitar este serviço você concorda em ter lido e entendido os <a style="color:#781f60" href="https://www.seguirplay.com/termos-e-condicoes" target="_blank">Termos e condiçoes</a> e <a style="color:#781f60" href="https://www.seguirplay.com/politicas-de-privacidade" target="_blank">Políticas de privacidade</a></p>
+                <p class="modal_paragraf">Necessário que o <a style="color:#FF6E03"target="_blank">perfil ou canal</a> esteje em <a style="color:#FF6E03"target="_blank">MODO PÚBLICO.</a></p>
+                <p class="modal_paragraf">Ao solicitar este serviço você concorda em ter lido e entendido os <a style="color:#FF6E03" href="https://www.seguirplay.com/termos-e-condicoes" target="_blank">Termos e condiçoes</a> e <a style="color:#FF6E03" href="https://www.seguirplay.com/politicas-de-privacidade" target="_blank">Políticas de privacidade</a></p>
                 <form id="formUserPurchase">
                     <input id="linkEmbed" type="text" placeholder="Cole o link aqui" autocapitalize="none" autocomplete="none">
                     <p class="text-danger d-none">Preencha esse campo</p>
@@ -74,7 +88,7 @@
                         
                         <div class="checkbox-compra">
                             <input id="check_insta" name="checkinsta" type='checkbox' style="height: 15px;" required>
-                            <label for="check_insta" id="label_termos">Eu li e concordo com os <a style="color:#781f60" href="https://www.seguirplay.com/termos-e-condicoes" target="_blank">Termos e condiçoes</a> e <a style="color:#781f60" href="https://www.seguirplay.com/politicas-de-privacidade" target="_blank">Políticas de privacidade</a></label>
+                            <label for="check_insta" id="label_termos">Eu li e concordo com os <a style="color:#FF6E03" href="https://www.seguirplay.com/termos-e-condicoes" target="_blank">Termos e condiçoes</a> e <a style="color:#FF6E03" href="https://www.seguirplay.com/politicas-de-privacidade" target="_blank">Políticas de privacidade</a></label>
                         </div>
                     </div>
                     <button id="button_checkbox">Continuar <i class="fas fa-arrow-right"></i></button>
@@ -172,7 +186,7 @@
                 <button id="btnPIX" class="mb-3">Pagar com PIX ou Cartão <i class="fas fa-arrow-right"></i></button>
                 <p class="modal_paragraf"><b>Como pagar pelo PIX ou Cartão de Crédito<p></b>
                 <p style="font-size: 12px">Gere o QR Code e Pague no seu banco na opção Pagar com Pix - Copie e Cole, Caso o QR não esteja funcionando Atualize a página.</p>
-                <p style="font-size: 12px">Pague o QR code com <b>Cartão de Crédito</b> veja como realizar o pagamento pelo <a style="color:#781f60" href="https://www.youtube.com/watch?v=gLDhZ6vVLrs" target="_blank">Nubank</a>, <a style="color:#781f60" href="https://www.youtube.com/watch?v=vv_4cH0hlwM" target="_blank">PicPay</a>, <a style="color:#781f60" href="https://www.youtube.com/watch?v=txKq3RpgD9I&t=75s" target="_blank">Mercado Pago</a> ou <a style="color:#781f60" href="https://www.youtube.com/watch?v=NzFF3XmIKgE" target="_blank">RecargaPay</a>.</p>
+                <p style="font-size: 12px">Pague o QR code com <b>Cartão de Crédito</b> veja como realizar o pagamento pelo <a style="color:#FF6E03" href="https://www.youtube.com/watch?v=gLDhZ6vVLrs" target="_blank">Nubank</a>, <a style="color:#FF6E03" href="https://www.youtube.com/watch?v=vv_4cH0hlwM" target="_blank">PicPay</a>, <a style="color:#FF6E03" href="https://www.youtube.com/watch?v=txKq3RpgD9I&t=75s" target="_blank">Mercado Pago</a> ou <a style="color:#FF6E03" href="https://www.youtube.com/watch?v=NzFF3XmIKgE" target="_blank">RecargaPay</a>.</p>
                 <p style="font-size: 12px">Funciona 24 horas por dia, pagamento reconhecido automaticamente pelo nosso sistema.</p>
                 <p class="modal_paragraf"><b>Você será notificado via e-mail assim que o seu pedido for enviada.<p></b>
             </div>
@@ -232,25 +246,26 @@
         <div class="row">
             <div class="col-lg-12 box_01 container-products">
                 <div class="logo-category ">
-                    <img class="icons" src="{{ $plan->category->image_icon }}">
+                    <img class="icons" src="{{ $plan->category->image_icon }}"
+                    style="width: 45px; border-radius: 50%">
                 </div>
                
-                <h3>{{ $plan->title }}</h3>
+                <h3 style="margin-bottom: 15px;">{{ $plan->title }}</h3>
 
                 <div class="row value-mais">
                     @if(!empty($plan->quantity_min))
-                        <div class="col-lg col-3">
-                            <img class="plan-quantity-less" data-price="{{ $plan->price }}"
-                                 data-quantity="{{ $plan->quantity_min }}" data-id="{{ $plan->id }}"
-                                 src="{{ asset('web_assets/img/menos.svg') }}" style="cursor: pointer">
+                        <div class="col-lg col-3 alinhar">
+                            <i class="fa-solid fa-minus plan-quantity-less" data-price="{{ $plan->price }}"
+                                 data-quantity="{{ $plan->quantity_min }}" data-id="{{ $plan->id }}" style="cursor: pointer; color:#606060;"></i>
                         </div>
                     @endif
-                    <div class="col-lg col-6"><input id="ipt-value" @if(empty($plan->quantity_min))disabled @endif name="quantity_value" value="{{ $plan->quantity_min ?? $plan->quantity }}" data-mask="####0"></div>
+                    <div class="col-lg col-6" style="margin:auto;"><input id="ipt-value" @if(empty($plan->quantity_min))disabled @endif name="quantity_value" value="{{ $plan->quantity_min ?? $plan->quantity }}" data-mask="####0"></div>
                     @if(!empty($plan->quantity_min))
-                        <div class="col-lg col-3">
-                            <img class="plan-quantity-max" data-price="{{ $plan->price }}"
+                        <div class="col-lg col-3 alinhar">
+                  
+                            <i class="fa-solid fa-plus plan-quantity-max" data-price="{{ $plan->price }}"
                                  data-quantity="{{ $plan->quantity_min ?? $plan->quantity }}" data-id="{{ $plan->id }}"
-                                 src="{{ asset('web_assets/img/mais.svg') }}" style="cursor: pointer">
+                                 style="cursor: pointer; color:#606060;"></i>
                         </div>
                     @endif
                 </div>
@@ -439,10 +454,10 @@
     //button_checkbox 
     $("#button_checkbox").click(function (e) {
         
-    if (!$("#check_link").is(":checked")) {
-        e.preventDefault(); // Impede a ação padrão de avançar para o próximo modal
-        $("#label_link").css("color", "red");
-    } 
+        if (!$("#check_link").is(":checked")) {
+            e.preventDefault(); // Impede a ação padrão de avançar para o próximo modal
+            $("#label_link").css("color", "red");
+        } 
     });
 
 
@@ -507,8 +522,11 @@
                 feedbackCupom.html("Cupom inválido, certifique-se de estar utilizando um cupom válido!");
             }
         } else {
-            // Lógica para lidar com a lista de cupons vazia
-            console.log("A lista de cupons está vazia ou não é válida.");
+                
+                campoPreco.addClass('none');
+                campoPrecoOld.addClass('block');
+
+                feedbackCupom.html("Cupom inválido, certifique-se de estar utilizando um cupom válido!");
         }
 
         if (cupomInputEntrada.val() == '') {
@@ -576,6 +594,8 @@
         $('input[name="cmnt_q"]').val('');
         $("#feedbackCupom").text('');
         $("#phone").val()
+
+        $('.modal-backdrop ').hide();
     }
 
     $(document).ready(function () {

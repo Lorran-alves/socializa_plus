@@ -52,7 +52,7 @@ h3{
 }
 
 h4{
-	font-family: 'Manrope';
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 600;
 	font-size: 22px;
@@ -162,7 +162,7 @@ li a {
 
 
 header{
-	/* background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%); */
+	/* background: linear-gradient(257.28deg, #FF6E03 0.51%, #781F60 104.36%); */
 	/* background-color: black; */
 	/* padding-top: 125px; */
 	color: black;
@@ -221,7 +221,7 @@ header h1, header p{
 }
 
 .additional button{
-	background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%);
+	background: #FF6E03;
 	border: none;
 }
 
@@ -260,7 +260,7 @@ header h1, header p{
 
 .value-mais h3{
 	padding-top: 7px;
-	font-family: 'Manrope';
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 500;
 	font-size: 22px;
@@ -390,7 +390,7 @@ footer a:hover{
 .modal-body input{
 	width: 375px;
 	height: 55px;
-	font-family: 'Manrope';
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
@@ -404,7 +404,7 @@ footer a:hover{
 }
 
 .modal-body button{
-	background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%);
+	background-color: #FF6E03;
 	border-radius: 50px;
 	border: none;
 	margin-top: 20px;
@@ -528,8 +528,8 @@ footer a:hover{
     font-size: 0.8rem;
     color: #606060;
 }
-.texto-roxo {
-    color :#7C205D;
+.texto-laranja {
+    color :#f15925;
     font-weight: bold;
 }
 
@@ -537,10 +537,10 @@ footer a:hover{
     align-items: center;
 }
 i {
-    color:  #9A9A9A;
+    color:  #555;
 }
 .button-contato i {
-    color: #7C205D;
+    color: #f15925;
     transition: 0.5s;
 }
 .button-contato {
@@ -548,15 +548,15 @@ i {
     background-color:  white;
     padding: 5px 15px;
     border: none;
-    color: #7C205D;
-    outline: 2px solid #7C205D;
+    color: #f15925;
+    outline: 2px solid #f15925;
     transition: 0.5s;
     cursor: pointer;
     border-radius: 25px;
 }
 
 .button-contato:hover {
-    background-color: #7C205D;
+    background-color: #f15925;
     color: white;
 }
 .button-contato:hover i{
@@ -602,71 +602,6 @@ table td{
 .hidden-desktop {
 	display: none;
 }
-/********** PAGINA CONTATO ****************/
-
-
-
-.contact{
-	margin: 125px;
-}
-
-.contact h2{
-	font-family: 'Panton';
-	font-style: normal;
-	font-weight: 300;
-	font-size: 55px;
-	line-height: 110%;
-	color: #131313;
-	text-transform: uppercase;
-}
-
-.contact h2 b{
-	font-weight: 800;
-	color: #FF6E04;
-}
-
-
-.contact input{
-	padding-left: 15px;
-	width: 100%;
-	height: 55px;
-	font-family: 'Manrope';
-	font-style: normal;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 25px;
-	color: #666666;
-	background: #FFFFFF;
-	border: 1px solid #ECECEC;
-	border-radius: 5px;
-	margin-bottom: 15px;
-}
-
-.contact textarea{
-	padding-top: 10px;
-	padding-left: 15px;
-	width: 100%;
-	height: 125px;
-	font-family: 'Manrope';
-	font-style: normal;
-	font-weight: 400;
-	font-size: 18px;
-	line-height: 25px;
-	color: #666666;
-	background: #FFFFFF;
-	border: 1px solid #ECECEC;
-	border-radius: 5px;
-	margin-bottom: 15px;
-}
-
-
-.contact button{
-	background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%);
-	border-radius: 5px;
-	width: 100%;
-	border: none;
-}
-
 
 
 /********** PAGINA POLITICAS ****************/
@@ -750,7 +685,7 @@ table td{
 
 
 .dealer button{
-	background: linear-gradient(257.28deg, #952852 0.51%, #781F60 104.36%);
+	background: #FF6E03;
 	border-radius: 50px;
 	border: none;
 }
@@ -765,6 +700,13 @@ table td{
 
 
 @media screen and (max-width: 980px) {
+
+	.header-area .main-nav .nav li:hover a, .header-area .main-nav .nav li a.active {
+		padding-left: 10px !important;
+	}
+    .owl-carousel.owl-drag .owl-item {
+		width: 250px !important;
+	}
 
 	.navbar-toggler{
 		width: 50px;
@@ -882,6 +824,32 @@ table td{
 	    text-align: center;
 	    margin-top: 50px;
 	}
+	
+	
+	.button-nav{
+		margin: 10px 0;
+		background: white !important;
+		color: black !important;
+		border-radius: 20px;
+		height: auto;
+		padding: 10px;
+		border: none;
+		outline: 1px solid black !important;
+	}
+	
+	.button-nav i{
+		color: black !important;
+	}
+	
+	.button-nav:hover{
+		background-color: white;
+		color: #FF6E03 !important;
+		outline: 1px solid #FF6E03;
+	}
+	
+	.button-nav:hover i{
+		color: #FF6E03;
+	}
 
 
 }
@@ -899,7 +867,7 @@ table td{
 
 .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
-    background: #ff455b;
+    background: #000;
     margin-top: 16px;
 }
 .dropdown {
@@ -965,7 +933,7 @@ table td{
 	.hidden-desktop {
 		display: block;
 	}
-	.texto-roxo {
+	.texto-laranja {
 		font-size: 0.8em;
 	}
 	.caixa-pedido {
@@ -988,9 +956,10 @@ table td{
 .checkbox-compra {
 	display: flex;
 	flex-direction: row;
-	justify-content: center;
+	justify-content: left;
 	align-items: center;
 	margin-bottom: 10px;
+	margin-left: 35px;
 }
 .checkbox-compra input {
 	width: auto;
@@ -1000,7 +969,7 @@ table td{
 
 }
 .cor-site {
-	color: #7B205E;	
+	color: #ff7e3c;	
 	font-weight: 400;
     font-family: 'Poppins' !important;
 }
@@ -1016,6 +985,7 @@ ul.ul-politicas li {
 #label_termos, #label_link{
 	color: #9A9A9A;
 	font-size: 0.8em;
+	text-align: left;
 }
 .cor-laranja {
 	color: #FF6E04;
@@ -1033,7 +1003,7 @@ ul.ul-politicas li {
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    color: #952852;
+    color: #FF6E03;
 }
 .div-buttom {
 	display: flex;
@@ -1095,4 +1065,14 @@ ul.ul-politicas li {
 }
 .icons{
 	width: auto;
+}
+
+.img-category{
+	width: 70px;
+    border-radius: 50%;
+    margin-top: -40px;
+	margin-bottom: 20px;
+}
+#button_checkbox i {
+	color: white;
 }

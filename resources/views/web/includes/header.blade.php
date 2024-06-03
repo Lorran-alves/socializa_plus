@@ -34,11 +34,12 @@
                           data-bs-toggle="dropdown" aria-expanded="false">
                       + Serviços
                   </button>
-                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                  <ul id="dropdown_menu" class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
                       @foreach($categoriesForDropdown as $category)
-                        <li>
+                        <li >
                             <a class="dropdown-item"
-                                href="{{ route('web.categories.show', ['slug' => $category->slug]) }}">
+                                href="{{ route('web.categories.show', ['slug' => $category->slug]) }}"
+                                style="color: black !important;">
                                 {{$category->title}}
                             </a>
                         </li>
@@ -66,3 +67,27 @@
     </div>
   </div>
 </header>
+  <style>
+    .dropdown-menu-mostrar{
+      display: block
+    }
+  </style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+      $('#dropdownMenuButton1').click(function(){
+          $('#dropdown_menu').toggleClass('dropdown-menu-mostrar');
+      });
+
+      // Esconder o menu dropdown ao clicar fora dele
+      $(document).on('click', function(e) {
+          if (!$(e.target).closest('.dropdown').length && !$(e.target).is('#dropdownMenuButton1')) {
+              if( $('#dropdown_menu').hasClass('dropdown-menu-mostrar')){
+                $('#dropdown_menu').toggleClass('dropdown-menu-mostrar');
+              }
+              
+          }
+      });
+  });
+</script>

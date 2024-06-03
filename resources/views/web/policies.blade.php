@@ -19,10 +19,10 @@
                 <div class="col-lg-8 mauto">
                     <h2>Políticas de privacidade</h2>
 
-                    <p>ATUALIZADA EM 1 DE OUTUBRO DE 2023<p>
+                    <p>ATUALIZADA EM 31 DE MAIO DE 2024<p>
 
                     <h3>Introdução</h3>
-                    <p>Esta Política de Privacidade tem como objetivo esclarecer as práticas de coleta, uso e armazenamento de informações pessoais dos usuários que utilizam os serviços da SEGUIR PLAY</p>
+                    <p>Esta Política de Privacidade tem como objetivo esclarecer as práticas de coleta, uso e armazenamento de informações pessoais dos usuários que utilizam os serviços da Socializa Plus</p>
 
                     <h3>Bases Legais para o Processamento de Dados</h3>
 
@@ -42,33 +42,33 @@
 
                     <h3>Seus Direitos</h3>
 
-                    <p>Você tem o direito de acessar, corrigir, alterar e excluir seus dados pessoais. Para exercer esses direitos entre em contato conosco pelo e-mail fornecido em nosso site: <a href="https://www.seguirplay.com/" class="cor-laranja">www.seguirplay.com</a>  </p>
+                    <p>Você tem o direito de acessar, corrigir, alterar e excluir seus dados pessoais. Para exercer esses direitos entre em contato conosco pelo e-mail fornecido em nosso site: <a href="https://socializaplus.com.br/" class="cor-laranja">www.socializaplus.com.br</a>  </p>
 
 
                     <h3>Armazenamento e Compartilhamento de Dados</h3>
 
 
-                    <p>A SEGUIR PLAY opera sob as leis brasileiras e mantém todos os dados em conformidade com as normas vigentes. Seus dados não são compartilhados com terceiros, exceto quando necessário para fornecimento de nossos serviços, como processamento de pagamentos.</p>
+                    <p>A Socializa Plus opera sob as leis brasileiras e mantém todos os dados em conformidade com as normas vigentes. Seus dados não são compartilhados com terceiros, exceto quando necessário para fornecimento de nossos serviços, como processamento de pagamentos.</p>
 
 
                     <h3>Como e por quanto tempo seus dados são armazenados?</h3>
 
-                    <p>Seus dados pessoais coletados pela SEGUIR PLAYserão utilizados e armazenados durante o tempo necessário para a prestação do serviço ou para que as finalidades elencadas nesta Política de Privacidade sejam atingidas, considerando os direitos dos titulares dos dados e da própria SEGUIR PLAY.</p>
+                    <p>Seus dados pessoais coletados pela Socializa Plus serão utilizados e armazenados durante o tempo necessário para a prestação do serviço ou para que as finalidades elencadas nesta Política de Privacidade sejam atingidas, considerando os direitos dos titulares dos dados e da própria Socializa Plus.</p>
 
-                    <p>De modo geral, a coleta de dados é mínima, apenas necessário para suporte, e-mail e telefone, seus dados serão mantidos enquanto perdurar a relação contratual entre você e a SEGUIR PLAY Após esse período, os dados coletados serão excluídos de nossas bases de dados ou anonimizados, ressalvadas as hipóteses legalmente previstas no artigo 16 da Lei Geral de Proteção de Dados (LGPD):</p>
+                    <p>De modo geral, a coleta de dados é mínima, apenas necessário para suporte, e-mail e telefone, seus dados serão mantidos enquanto perdurar a relação contratual entre você e a Socializa Plus Após esse período, os dados coletados serão excluídos de nossas bases de dados ou anonimizados, ressalvadas as hipóteses legalmente previstas no artigo 16 da Lei Geral de Proteção de Dados (LGPD):</p>
 
 
                     <ul class="ul-politicas">
-                        <li>Cumprimento de obrigação legal ou regulatória pela SEGUIR PLAY;</li>
+                        <li>Cumprimento de obrigação legal ou regulatória pela Socializa Plus;</li>
                         <li>Estudo por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;</li>
                         <li>Transferência a terceiro, desde que respeitados os requisitos de tratamento
                             de dados dispostos nesta Lei;</li>
-                        <li>Uso exclusivo da SEGUIR PLAY, vedado seu acesso por terceiros, e desde
+                        <li>Uso exclusivo da Socializa Plus, vedado seu acesso por terceiros, e desde
                             que anonimizados os dados</li>
                     </ul>
 
 
-                    <p>Mesmo limitando a coleta de dados pessoais ao <span class="cor-site">estritamente necessário</span>, como nome, e-mail e telefone para fins de suporte ao usuário, a <span class="cor-site">SEGUIR PLAY</span> mantém um rigoroso compromisso com a segurança e a privacidade dessas informações. Implementamos soluções técnicas avançadas que asseguram a confidencialidade, integridade e inviolabilidade dos seus dados. Adicionalmente, medidas de segurança alinhadas aos riscos envolvidos estão em vigor, incluindo protocolos de controle de acesso às informações armazenadas.</p>
+                    <p>Mesmo limitando a coleta de dados pessoais ao <span class="cor-site">estritamente necessário</span>, como nome, e-mail e telefone para fins de suporte ao usuário, a <span class="cor-site">Socializa Plus</span> mantém um rigoroso compromisso com a segurança e a privacidade dessas informações. Implementamos soluções técnicas avançadas que asseguram a confidencialidade, integridade e inviolabilidade dos seus dados. Adicionalmente, medidas de segurança alinhadas aos riscos envolvidos estão em vigor, incluindo protocolos de controle de acesso às informações armazenadas.</p>
 
                     <h3>Segurança dos Dados</h3>
 
@@ -85,7 +85,7 @@
                     <p>A versão atual desta Política de Privacidade foi formulada e atualizada pela última vez em 20 de setembro de 2023.</p>
 
 
-                    <p>A <span class="cor-site">SEGUIR PLAY</span>  reserva-se o direito de alterar esta Política de Privacidade a qualquer momento, especialmente para adaptá-la a eventuais mudanças em nosso site ou em legislação aplicável. <span class="cor-site">É altamente recomendável que você revise este documento frequentemente.</span></p>
+                    <p>A <span class="cor-site">Socializa Plus</span>  reserva-se o direito de alterar esta Política de Privacidade a qualquer momento, especialmente para adaptá-la a eventuais mudanças em nosso site ou em legislação aplicável. <span class="cor-site">É altamente recomendável que você revise este documento frequentemente.</span></p>
 
                     <p>Qualquer modificação nesta Política entrará em vigor imediatamente após sua publicação em nosso site. Sempre informaremos a você sobre qualquer alteração nesta Política.</p>
 
@@ -93,7 +93,7 @@
 
                     <h3>Contato e DPO</h3>
 
-                    <p>Para quaisquer dúvidas ou para exercer seus direitos, entre em contato conosco ou com nosso Encarregado de Proteção de Dados Pessoais pelo e-mail: <a href="mailto:dpo@seguirplay.com" class="cor-laranja">dpo@seguirplay.com</a> </p>
+                    <p>Para quaisquer dúvidas ou para exercer seus direitos, entre em contato conosco ou com nosso Encarregado de Proteção de Dados Pessoais pelo e-mail: <a href="mailto:dpo@socializaplus.com.br" class="cor-laranja">dpo@socializaplus.com.br</a> </p>
 
                     <p>Para assegurar que você seja corretamente identificado como o titular dos dados pessoais objeto da solicitação, mesmo que minimamente coletados, podemos requerer documentos ou outras evidências que comprovem sua identidade. Caso isso seja necessário, você será previamente notificado.
                     </p>

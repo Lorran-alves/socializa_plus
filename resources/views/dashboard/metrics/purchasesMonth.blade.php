@@ -1,5 +1,5 @@
 @extends('dashboard.templates.master')
-@section('title', 'Compras')
+@section('title', 'Total de compras mensais')
 @section('content')
     <div class="main-content container-fluid">
         <div class="page-title">
@@ -40,88 +40,12 @@
             </div>
         </div>
     </div>
-
-    {{-- Confirm Send --}}
-    <div class="modal fade text-left" id="confirm" tabindex="-1" role="dialog"
-         aria-labelledby="myModalLabel33" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h4 class="modal-title" id="myModalLabel33">Confirmar envio</h4>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <i data-feather="x"></i>
-                    </button>
-                </div>
-                <form method="post" id="formConfirm">
-                    @csrf
-                    @method('PUT')
-                    <div class="modal-body">
-                        <p>Você realmente deseja confirmar o envio? (Essa alteração não pode ser desfeita)</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-light-secondary" data-dismiss="modal">
-                            <i class="bx bx-x d-block d-sm-none"></i>
-                            <span class="d-none d-sm-block">Fechar</span>
-                        </button>
-                        <button type="submit" class="btn btn-primary ml-1">
-                            <i class="bx bx-check d-block d-sm-none"></i>
-                            <span class="d-none d-sm-block">Confirmar</span>
-                        </button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
-    {{-- Edit instagram --}}
-    <div class="modal fade text-left" id="edit" tabindex="-1" role="dialog"
-         aria-labelledby="myModalLabel33" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h4 class="modal-title" id="myModalLabel33">Editar instagram</h4>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <i data-feather="x"></i>
-                    </button>
-                </div>
-                <form method="post" id="formEdit">
-                    @csrf
-                    @method('PUT')
-                    <div class="modal-body">
-                        <div class="form-group">
-                            <label for="recipient-instagram" class="col-form-label">Instagram</label>
-                            <input type="text" class="form-control" id="recipient-instagram" name="instagram" required>
-                        </div>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-light-secondary" data-dismiss="modal">
-                            <i class="bx bx-x d-block d-sm-none"></i>
-                            <span class="d-none d-sm-block">Fechar</span>
-                        </button>
-                        <button type="submit" class="btn btn-primary ml-1">
-                            <i class="bx bx-check d-block d-sm-none"></i>
-                            <span class="d-none d-sm-block">Editar</span>
-                        </button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
+    
     <section class="section">
         <div class="card">
             <div class="card-body">
-                <form action="{{ route('dashboard.purchases.index') }}" class="dataTable-search mb-3 d-flex">
-                    {{-- Status --}}
-                    <select class="form-control w-25" id="basicSelect" name="status">
-                        <option value="">Todos status</option>
-                        <option value="pending" {{ ($request->status === 'pending' ? 'selected' : '') }}>Pendente
-                        </option>
-                        <option value="approved" {{ ($request->status === 'approved' ? 'selected' : '') }}>Aprovado
-                        </option>
-                    </select>
-
-                    {{-- Search --}}
+                <form action="{{ route('dashboard.comprasMensal') }}" class="dataTable-search mb-3 d-flex">
+                    
                     <input class="dataTable-input ml-auto" placeholder="Pesquisar..." value="{{ $request->search }}"
                            type="search" name="search">
                     <button class="btn btn-primary ml-1" type="submit">
@@ -145,61 +69,22 @@
                 <table class='table table-striped' id="table1">
                     <thead>
                         <tr>
-                            <th>ID</th>
-                            <th>Data</th>
-                            <th>Categoria</th>
-                            <th>Produto (ID)</th>
-                            <th>Quantidade (Padrão)</th>
                             <th>Email</th>
                             <th>Telefone</th>
-                            <th>Rede Social</th>
-                            <th>Quantidade (Comprada)</th>
-                            <th>Total</th>
-                            <th>Status</th>
+                            <th>Total de compras</th>
+                            <th>Gasto total</th>
+                           
                         </tr>
                     </thead>
                     <tbody>
                     @foreach($purchases as $purchase)
                         <tr>
-                            <td>{{ $purchase->id }}</td>
-                            <td>{{ date('d/m/Y',strtotime($purchase->created_at)) }}</td>
-                            <td>{{ $purchase->plan->category->title }}</td>
-                            <td>{{ $purchase->plan->title }} ({{ $purchase->plan->id_provedor }})</td>
-                            <td>{{ $purchase->plan->quantity_min ?? $purchase->plan->quantity_min }}</td>
                             <td>{{ $purchase->email }}</td>
-                            <td>
+                           <td>
                                 <a href="https://wa.me/{{ preg_replace("/[^0-9]/", "", $purchase->telefone) }}" style="color:#727E8C;">{{$purchase->telefone}}</a>
                             </td>
-                            <td>{{ $purchase->profile }}</td>
-                            <td>{{ $purchase->quantity }}</td>
-                            <td>R$ {{ $purchase->convert_price }}</td>
-                            <td>
-                                @if( $purchase->status == 'approved' )
-                                    <span class="badge bg-warning" style="color: #fff;">
-                                        Aprovado
-                                    </span>
-                                    <span class="badge bg-success" style="color: #fff;">
-                                        <a href="https://socializaplus.com.br/api_dashboard/{{$purchase->id}}">Enviar para a api</a>
-                                    </span>
-                                @elseif( $purchase->status  == 'send' )
-                                    <span class="badge bg-success" style="color: #fff;">
-                                        Enviado para a API
-                                    </span>
-                                    <span class="badge bg-danger col-lg my-2"
-                                      data-toggle="modal" data-target="#delete"
-                                      data-action="{{ route('dashboard.purchases.destroy', ['purchase_id' => $purchase->id]) }}"
-                                      style="color: #fff; cursor: pointer;">Apagar</span>
-                                @elseif( $purchase->status  == 'pending' )
-                                    <form action="{{ route('dashboard.purchases.approved', ['purchase_id' => $purchase->id]) }}" method="get" id="formApproval_{{$purchase->id}}" >
-                                        @csrf
-                                        <button type="button" class='btn btn-outline-success' onclick="confirmApproval({{$purchase->id}})">Aprovar Pagamento</button>
-                                    </form>                                    
-                                @elseif( $purchase->status  == 'refunded' )
-                                <span class="badge bg-danger" style="color: #fff;">
-                                        Reembolsado
-                                    </span>
-                                @endif
-                            </td>
+                            <td>{{ $purchase->total_de_compras }}</td>
+                            <td>R$ {{ $purchase->price_total }}</td>
                         </tr>
                     @endforeach
                     </tbody>

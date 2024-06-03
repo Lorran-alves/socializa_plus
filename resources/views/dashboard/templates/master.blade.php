@@ -28,7 +28,7 @@
                             <div class="avatar mr-1">
                                 <img src="dashboard_assets/images/logo.png" alt="">
                             </div>
-                            <div class="d-none d-md-block d-lg-inline-block">Seguir Play</div>
+                            <div class="d-none d-md-block d-lg-inline-block">Socializa Plus</div>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right">
 {{--                            <a class="dropdown-item" href="{{ route('dashboard.users.edit') }}"><i--}}
