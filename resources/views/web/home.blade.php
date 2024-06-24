@@ -12,8 +12,8 @@
                   <div class="row">
                     <div class="col-lg-12">
                       <h6>Socializa Plus</h6>
-                      <h2>Destacar nas Redes Sociais</h2>
-                      <p>Se você está buscando ampliar seu alcance, aumentar o seu engajamento ou até mesmo impulsionar a sua autoridade na cpopular rede social, nós temos a solução que você precisa.</p>
+                      <h2>Destaque nas Redes Sociais</h2>
+                      <p>Se você está buscando ampliar seu alcance, aumentar o seu engajamento ou até mesmo impulsionar a sua autoridade nas redes socias, nós temos a solução que você precisa.</p>
                     </div>
                     <div class="col-lg-12">
                       <div class="border-first-button scroll-to-section">
@@ -184,7 +184,7 @@
                                 <div class="left-text">
                                   <h4>Funciona 24 horas por dia</h4>
                                   <p>NNosso site é tontamente automático, apos o pagamento nosso sistema inicia o preparo do seu pedido, o prazo de entrega é de 24 horas. Formas de pagamentos </p>
-                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> PIX</span> <span><i class="fa fa-check-circle"></i> Cartão de creditos</span></div>
+                                  <div class="ticks-list"><span><i class="fa fa-check-circle"></i> PIX</span> <span><i class="fa fa-check-circle"></i> Cartão de creditos "VIA PIX"</span></div>
                                   <p>Apos o pagamento você consegue acompanha na área do cliente.</p>
                                 </div>
                               </div>

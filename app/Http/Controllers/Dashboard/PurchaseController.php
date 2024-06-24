@@ -28,7 +28,11 @@ class PurchaseController extends Controller
         $purchases = Purchase::where(function ($query) use ($search) {
             return $query->where('id', 'like', '%' . $search . '%')
                 ->orWhere('profile', 'like', '%' . $search . '%')
-                ->orWhere('email', 'like', '%' . $search . '%');
+                ->orWhere('email', 'like', '%' . $search . '%')
+                ->orWhere('telefone', 'like', '%' . $search . '%')
+                ->orWhere('period', 'like', '%' . $search . '%')
+                ->orWhere('payment_id', 'like', '%' . $search . '%');
+                
         });
         if($status){
             if($status == 'approved')

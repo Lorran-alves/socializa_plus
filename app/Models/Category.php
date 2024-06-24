@@ -39,7 +39,7 @@ class Category extends Model
     
     private function convertImageIcon($id)
     {
-        if($id == 1 or $id == 6){
+        if($id == 1 or $id == 11){
             return asset('web_assets/img/icons/facebook.png');
         }elseif($id == 2){
             return asset('web_assets/img/icons/instagram.png');
@@ -49,8 +49,15 @@ class Category extends Model
             return asset('web_assets/img/icons/tiktok.png');
         }elseif($id == 5){
             return asset('web_assets/img/icons/youtube.png');
+        }elseif($id == 7){
+            return asset('web_assets/img/icons/spot.png');
+        }elseif($id == 8){
+            return asset('web_assets/img/icons/twtv.png');
+        }elseif($id == 9){
+            return asset('web_assets/img/icons/rembl.png');
+        }elseif($id == 10){
+            return asset('web_assets/img/icons/x.png');
         }
-
         return asset('web_assets/img/icons/padrao.png');
     }
 }

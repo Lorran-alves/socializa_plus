@@ -82,6 +82,8 @@
     </div>
 </section>
 
+{{-- modal promoção --}}
+@include('web.modal_promocao')
     <?php 
         // echo asset("web_assets/css/fontawesome.css");
     // die; 

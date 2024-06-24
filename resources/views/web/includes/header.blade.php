@@ -5,7 +5,7 @@
         <nav class="main-nav">
 
           <a href="{{route('web.home')}}" class="logo active">
-            <img src="{{asset("web_assets/img/logo.png")}}" alt="" height="42" width="42">
+            <img src="{{asset("web_assets/img/logo.svg")}}" alt="" height="42" width="42">
           </a>
 
           <ul class="nav">

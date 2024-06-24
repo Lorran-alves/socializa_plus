@@ -133,7 +133,8 @@ p {
 
 img {
     width: 100%;
-  overflow: hidden;
+    overflow: hidden;
+    
   
 	
 }
@@ -1506,7 +1507,7 @@ footer p {
     font-family: 'Poppins' !important;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 15px;
     line-height: 185%;
     color: #9A9A9A;
 }

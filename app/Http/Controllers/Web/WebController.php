@@ -83,7 +83,7 @@ class WebController extends Controller
             $_SESSION['pedido'] = $dado;
             return 'verdadeiro';
         }
-        return 'Pedido não encontrado, entre em contato com o <a style="color:#781f60" href="https://api.whatsapp.com/send/?phone=5511985868006" target="_blank">Suporte</a>';
+        return 'Pedido não encontrado, entre em contato com o <a style="color:#781f60" href="https://api.whatsapp.com/send/?phone=5511957193810" target="_blank">Suporte</a>';
     }
 
     public function pedidos($email = null)
@@ -433,6 +433,8 @@ class WebController extends Controller
     }
 
     public function api_dashboard($id){
+        
+        $this->api();return;
         
         $dolar = $this->getCurrentDollarRate();
 

@@ -808,3 +808,453 @@
 3.5
 {"_token":"9Mx4bayWlSGDBDQWxbdMSrfEGUNY1kBqDHVK6H04","email":"test@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"ajshddh","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
 =============================================================
+15
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"omCPuKjPi20pqDaBTIvgRM0tsEo21HnKv1WYVeqH","email":"pazvictorya37@gmail.com","telefone":"+55(13) 9 9609-6051","profile":"tiktok.com\/@vitoria_saantos","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+16
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"4mpIRBdgtYbueKFOFxDc0hZJoOf7RkLup7tH0f5z","email":"rayssalimaa420@gmail.com","telefone":"+55(11) 9 5342-66","profile":"https:\/\/vm.tiktok.com\/ZMrd7Xkps\/","accept_email":"1","cupom":"1,40","quantity":"20","cmnt_q":null}
+=============================================================
+17
+50
+0.0700
+2500
+175
+175
+175
+{"_token":"XEyUO878OB1FW1DwWu2m64n1w49ACAV1fZO0SIBe","email":"elisangelaandrade1978@hotmail.com","telefone":"+55(11) 9 7955-8167","profile":"blessed_andrade_00_","accept_email":"1","cupom":"BLESSED_ANDRADE_00_","quantity":"2500","cmnt_q":null}
+=============================================================
+18
+100
+0.0800
+100
+8
+8
+8
+{"_token":"WNYDh4dcUfw62hk6klZI12yYW4ShwJfnZDlSXyKh","email":"ml5142145@gmail.com","telefone":"+55(19) 9 9185-2346","profile":"https:\/\/www.instagram.com\/7pedro.zx?igsh=MWxkbnhqaGNweTU1OA==","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+19
+100
+0.1000
+100
+10
+10
+10
+{"_token":"WNYDh4dcUfw62hk6klZI12yYW4ShwJfnZDlSXyKh","email":"ml5142145@gmail.com","telefone":"+55(19) 9 9185-2346","profile":"https:\/\/www.instagram.com\/7pedro.zx?igsh=MWxkbnhqaGNweTU1OA==","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+20
+50
+0.0700
+50
+3.5
+3.5
+3.5
+{"_token":"qWuKQUoT8ty773a4WpYsGkCNVXZmgAQQdpOSYXHK","email":"leonardoromano1504@gmail.com","telefone":"+55(14) 9 9872-3286","profile":"https:\/\/www.instagram.com\/leo_romano01?igsh=cXNqbGwxNXN0MmVj","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+21
+1000
+0.0035
+1000
+3.5
+3.5
+3.5
+{"_token":"9Mx4bayWlSGDBDQWxbdMSrfEGUNY1kBqDHVK6H04","email":"ricardo.ramos803@gmail.com","telefone":"+55(11) 6 5656-5659","profile":"https:\/\/socializaplus.com.br\/impulsione-seu-instagram","accept_email":"1","cupom":null,"quantity":"1000","cmnt_q":null}
+=============================================================
+22
+100
+0.0100
+100
+1
+1
+1
+{"_token":"Rbdrwoq7bJuM8sfPPXwfWXEdsHBEQuXID1SrABzY","email":"marcelaguilhermino5@gmail.com","telefone":"+55(19) 9 9981-5253","profile":"https:\/\/www.instagram.com\/019.mahx?igsh=MTg4Z2xtb2czaHNrNQ==","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+23
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+24
+10
+0.1000
+40
+4
+4
+4
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3454","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"40","cmnt_q":null}
+=============================================================
+25
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+26
+10
+0.1000
+20
+2
+2
+2
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+27
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+28
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+29
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+30
+10
+0.1000
+10
+1
+1
+1
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+31
+10
+0.1000
+20
+2
+2
+2
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+32
+10
+0.1000
+40
+4
+4
+4
+{"_token":"iqsPt4a7GUw4CVZvqoBMskS9eb7MrlqONzvkdjpF","email":"crespilhomanuela21@gmail.com","telefone":"+55(14) 9 9858-263","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"40","cmnt_q":null}
+=============================================================
+33
+10
+0.1000
+50
+5
+5
+5
+{"_token":"xpQToHyMcxpE7NRlD2LoJRZZdIZCKIZwYprWW5j7","email":"francaanajulia24@gmail.com","telefone":"+55(14) 9 9867-3754","profile":"https:\/\/www.instagram.com\/p\/C7wvg3ruEx6\/c\/18057510169527979\/","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+34
+50
+0.3000
+50
+15
+15
+15
+{"_token":"xTqRTihVyGJVfIveyLGPxZAixnb3WylIdwLmAqnE","email":"teste@gmail.com","telefone":"+55(99) 9 9999-9999","profile":"https:\/\/www.youtube.com\/watch?v=F6p6_LrHPd0","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+35
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"OJhLiH1EfwbSYJrEjXLqxqnlJPO1oenq4UvJU92C","email":"thaisribc907@gmail.com","telefone":"+55(14) 9 9757-2130","profile":"thaisribeir5","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+36
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":"1","quantity":"20","cmnt_q":null}
+=============================================================
+37
+100
+0.0200
+100
+2
+2
+2
+{"_token":"aDhibiXxPB6MfyxTn9NQIs9915AiBUBVlTNRUHw6","email":"sabrinakellycipriano@gmail.com","telefone":"+55(11) 9 5871-3511","profile":"https:\/\/vm.tiktok.com\/ZMrLhprLF\/","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+38
+50
+0.0600
+200
+12
+12
+12
+{"_token":"mSeWH58ryadtCdB81nPBjBePTU37ZpVZYY03cIPa","email":"iasmin93000@Gmail.com","telefone":"+55(82) 9 9427-8779","profile":"https:\/\/vm.tiktok.com\/ZMrLQJESG\/","accept_email":"1","cupom":null,"quantity":"200","cmnt_q":null}
+=============================================================
+39
+20
+0.0700
+70
+4.9
+4.9
+4.9
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9461-9955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBLo951oXN&_r=1","accept_email":"1","cupom":null,"quantity":"70","cmnt_q":null}
+=============================================================
+40
+20
+0.0700
+70
+4.9
+4.9
+4.9
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9461-9955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBLsUSbilS&_r=1","accept_email":"1","cupom":null,"quantity":"70","cmnt_q":null}
+=============================================================
+41
+50
+0.0600
+50
+3
+3
+3
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9461-9955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBLzZhAXBN&_r=1","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+42
+100
+0.0200
+100
+2
+2
+2
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9461-9955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBM6BO2muc&_r=1","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+43
+100
+0.0200
+100
+2
+2
+2
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9619-955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBM6BO2muc&_r=1","accept_email":"1","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+44
+
+40.0000
+3000
+120000
+40.0000
+40
+{"_token":"cgL9pDQ8JsmR7i7zgMc8l9vFhxb7KukRB4HZrq5k","email":"vthaila474@gmail.com","telefone":"+55(16) 9 9461-9955","profile":"https:\/\/www.tiktok.com\/@taylzxl_silva?_t=8nBM6BO2muc&_r=1","accept_email":"1","cupom":null,"quantity":"3000","cmnt_q":null}
+=============================================================
+45
+10
+0.1000
+260
+26
+26
+26
+{"_token":"VzJh2SQ81LIz7iEbxfJTg4daEhDNOLRduWmMZatQ","email":"Sjefferson911@gmail.com","telefone":"+55(11) 9 1098-9845","profile":"https:\/\/www.instagram.com\/p\/C79KNUpPYJr\/?igsh=YjhranIxam5sZ2Z1","accept_email":"1","cupom":null,"quantity":"260","cmnt_q":null}
+=============================================================
+46
+10
+0.1000
+10
+1
+1
+1
+{"_token":"VzJh2SQ81LIz7iEbxfJTg4daEhDNOLRduWmMZatQ","email":"Sjefferson911@gmail.com","telefone":"+55(91) 0 9898-45","profile":"https:\/\/www.instagram.com\/p\/C79KNUpPYJr\/?igsh=YjhranIxam5sZ2Z1","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+47
+10
+0.1000
+10
+1
+1
+1
+{"_token":"VzJh2SQ81LIz7iEbxfJTg4daEhDNOLRduWmMZatQ","email":"Sjefferson911@gmail.com","telefone":"+55(91) 9 1098-9845","profile":"https:\/\/www.instagram.com\/p\/C79KNUpPYJr\/c\/18041295094888306\/","accept_email":"1","cupom":null,"quantity":"10","cmnt_q":null}
+=============================================================
+48
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"gaYPt5nepsZZ4lh2ES5t7AnlTREsw3GV6444BD3I","email":"ricardo.ramos803@gmail.com","telefone":"+55(11) 1 1111-1111","profile":"https:\/\/socializaplus.com.br\/impulsione-seu-instagram","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+49
+10
+0.1000
+110
+11
+11
+11
+{"_token":"VzJh2SQ81LIz7iEbxfJTg4daEhDNOLRduWmMZatQ","email":"Sjefferson911@gmail.com","telefone":"+55(11) 9 1098-9845","profile":"https:\/\/www.instagram.com\/p\/C79KNUpPYJr\/?igsh=YjhranIxam5sZ2Z1","accept_email":"1","cupom":null,"quantity":"110","cmnt_q":null}
+=============================================================
+50
+50
+0.0900
+50
+4.5
+4.5
+4.5
+{"_token":"BXoFRzw7VWsx0XcNrTYXhUpWYDGALoabs71fjEI8","email":"eduardocamisa62@gmail.com","telefone":"+55(16) 9 9335-0405","profile":"https:\/\/www.instagram.com\/p\/C8Nz-BwO1qX\/?igsh=MzRlODBiNWFlZA==","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+51
+100
+0.0150
+100
+1.5
+1.5
+1.5
+{"_token":"wtrhHJWgXoPLvoZeaAtK9BDPpAu1FbFNPIIJ2qX2","email":"manoela.mtquerida@icloud.com","telefone":"+55(11) 9 1072-6958","profile":"https:\/\/www.instagram.com\/manuzinha_mtquerida?igsh=MXU3MWJyNmVlcWZneA%3D%3D&utm_source=qr","accept_email":"0","cupom":null,"quantity":"100","cmnt_q":null}
+=============================================================
+52
+50
+0.0700
+50
+3.5
+3.5
+3.5
+{"_token":"MVXbjU6qsigml77GlomkDRthGgOGSg6S5Fx8rqr8","email":"felipesousaguimaraes42@gmail.com","telefone":"+55(99) 9 8811-2891","profile":"https:\/\/www.instagram.com\/fellipesousa246?igsh=MWFpMjRmaDVkMTY4eg==","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+53
+10
+0.1000
+60
+6
+6
+6
+{"_token":"MeWPGldFBf3zVPMaG5DFOppLYFZcf2HUL0k5EKNK","email":"Sjefferson911@gmail.com","telefone":"+55(11) 9 1098-9845","profile":"https:\/\/www.instagram.com\/p\/C79KNUpPYJr\/?igsh=YjhranIxam5sZ2Z1","accept_email":"1","cupom":null,"quantity":"60","cmnt_q":null}
+=============================================================
+54
+1
+1.0000
+1
+1
+1
+1
+{"_token":"IQ1g7Wn7GgdR7PrId11zp5smdShZ0WOnEdCJAr48","email":"suellenojones@gmail.com","telefone":"+55(14) 9 9601-1170","profile":"https:\/\/www.instagram.com\/reel\/C8Xc0TxODsV\/?igsh=MXJybnB0NGpoaWdvMQ==","accept_email":"1","cupom":null,"quantity":"1","cmnt_1":"Vc \u00e9 boa","cmnt_q":"1"}
+=============================================================
+55
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"testesssttteeeee","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+56
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"of27a0FAjSO00WmpHxoXPITPEydlUGJQTTfUhEPX","email":"lorran@gmail.com","telefone":"+55(87) 9 8123-4129","profile":"https:\/\/teste3.com","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+57
+50
+0.0600
+50
+3
+3
+3
+{"_token":"xeY6WSC820wAP7xVJsZRFHAJzHOzdxsOem6TXGNp","email":"camilavitoriasilvadosanjos@gmail.com","telefone":"+55(15) 9 9707-0843","profile":"https:\/\/vm.tiktok.com\/ZMr2YXy6M\/","accept_email":"1","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+58
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"wcnsQ64hbFcaxq3aj4zfEhvCWKCPXcAdliFpdn8P","email":"otavioaugustoresendereis@gmail.com","telefone":"+55(11) 9 1787-6662","profile":"https:\/\/www.tiktok.com\/@ootavio__o10?_t=8nLgvAkXf2E&_r=1","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+59
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"wcnsQ64hbFcaxq3aj4zfEhvCWKCPXcAdliFpdn8P","email":"otavioaugustoresendereis@gmail.com","telefone":"+55(11) 9 1787-6662","profile":"https:\/\/www.tiktok.com\/@ootavio__o10?_t=8nLgvAkXf2E&_r=1","accept_email":"0","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================
+60
+50
+0.0700
+150
+10.5
+10.5
+10.5
+{"_token":"bOFgh3DZldzBZzRQ3oDrs6DsPsTYF9W3QGCWmLtQ","email":"maiahluizahmedeiros@gmail.com","telefone":"+55(17) 9 9616-5664","profile":"https:\/\/www.instagram.com\/malu_medeiros.lash?igsh=OWlzbzNkdnk2Z3hq&utm_source=qr","accept_email":"1","cupom":null,"quantity":"150","cmnt_q":null}
+=============================================================
+61
+20
+0.0700
+420
+29.4
+29.4
+29.4
+{"_token":"phBzAVmNkwC6lErGA4SNhjiz5iyE7DMXsQY1wOE2","email":"beatrizmoretto24@gmail.com","telefone":"+55(14) 9 9754-3422","profile":"https:\/\/www.tiktok.com\/@vlog_biamoretto?_t=8nO8IhXgxPh&_r=1","accept_email":"1","cupom":null,"quantity":"420","cmnt_q":null}
+=============================================================
+62
+50
+0.1000
+50
+5
+5
+5
+{"_token":"fadjonk1qZXbfVwBP5lyylchpQcvtaUOFxO5Z7nq","email":"nadhyya@gmail.com","telefone":"+55(22) 9 9782-7063","profile":"https:\/\/www.instagram.com\/p\/C8ioj_EgnhLE0PkJEKHM_6iu5DreF_Fp7l9t9Q0\/?igsh=NGR6dnlpcXdhcnp6","accept_email":"0","cupom":null,"quantity":"50","cmnt_q":null}
+=============================================================
+63
+1000
+0.0035
+1000
+3.5
+3.5
+3.5
+{"_token":"FEt8gU2PxfueBpem8TWrwykslEwXlfSFpWMwnZ7P","email":"mattoskaio73@gmail.com","telefone":"+55(11) 9 4206-4519","profile":"https:\/\/www.instagram.com\/reel\/C8iJMsnPP11\/?igsh=MTgwYWh3MmpsZmhwZQ==","accept_email":"1","cupom":null,"quantity":"1000","cmnt_q":null}
+=============================================================
+64
+20
+0.0700
+20
+1.4
+1.4
+1.4
+{"_token":"S6rUcIW5b31nRi8Uw1BqvAnTr5jKgXK5V4tDPVDl","email":"amanda2121za@gmail.com","telefone":"+55(15) 9 9757-8563","profile":"www.tiktok.com\/@ma._cassemiro","accept_email":"1","cupom":null,"quantity":"20","cmnt_q":null}
+=============================================================

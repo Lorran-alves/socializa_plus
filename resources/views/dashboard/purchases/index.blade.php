@@ -146,7 +146,7 @@
                     <thead>
                         <tr>
                             <th>ID</th>
-                            <th>Data</th>
+                            <th>Data da Compra e Atualização</th>
                             <th>Categoria</th>
                             <th>Produto (ID)</th>
                             <th>Quantidade (Padrão)</th>
@@ -162,7 +162,8 @@
                     @foreach($purchases as $purchase)
                         <tr>
                             <td>{{ $purchase->id }}</td>
-                            <td>{{ date('d/m/Y',strtotime($purchase->created_at)) }}</td>
+                            <td>{{ date('d/m/Y H:i',strtotime($purchase->created_at)) }}
+                            {{ date('d/m/Y H:i',strtotime($purchase->updated_at)) }}</td>
                             <td>{{ $purchase->plan->category->title }}</td>
                             <td>{{ $purchase->plan->title }} ({{ $purchase->plan->id_provedor }})</td>
                             <td>{{ $purchase->plan->quantity_min ?? $purchase->plan->quantity_min }}</td>
@@ -176,10 +177,10 @@
                             <td>
                                 @if( $purchase->status == 'approved' )
                                     <span class="badge bg-warning" style="color: #fff;">
-                                        Aprovado
+                                        Pagamento Aprovado
                                     </span>
-                                    <span class="badge bg-success" style="color: #fff;">
-                                        <a href="https://socializaplus.com.br/api_dashboard/{{$purchase->id}}">Enviar para a api</a>
+                                    <span class="badge bg-success col-lg my-2" style="color: #fff;">
+                                        <a href="https://socializaplus.com.br/api_dashboard/{{$purchase->id}}">Enviar para a API</a>
                                     </span>
                                 @elseif( $purchase->status  == 'send' )
                                     <span class="badge bg-success" style="color: #fff;">
