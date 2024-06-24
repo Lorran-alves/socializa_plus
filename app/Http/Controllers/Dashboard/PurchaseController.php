@@ -58,10 +58,6 @@ class PurchaseController extends Controller
         $purchase = Purchase::find($purchase_id);
         $purchase->status = 'approved';
         $purchase->save();
-
-        $webController = new WebController();
-        $webController->api_dashboard($purchase->id);
-
         return redirect()->back()->withSuccess('Aprovado com sucesso!');
     }
     public function destroy($purchase_id){
