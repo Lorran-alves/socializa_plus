@@ -31,6 +31,11 @@ class WebhooksController extends Controller
                     $purchase->payment_id = $payment_id;
                     $purchase->status = $response->status != null ? $response->status : $purchase->status ;
                     $purchase->save();
+
+                    //enviar pedidos para api
+                    $webController = new WebController();
+                    $webController->api();
+                  
                 }
             }
         }

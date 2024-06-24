@@ -434,8 +434,6 @@ class WebController extends Controller
 
     public function api_dashboard($id){
         
-        $this->api();return;
-        
         $dolar = $this->getCurrentDollarRate();
 
         /* Enviando orders */

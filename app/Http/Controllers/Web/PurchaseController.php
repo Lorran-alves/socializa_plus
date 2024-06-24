@@ -88,7 +88,10 @@ class PurchaseController extends Controller
     
     public function ispay(Purchase $purchase){
         if($purchase->status == 'approved'){
-
+           
+            $webController = new WebController();
+            $webController->api_dashboard($purchase->id);
+            
             $this->saveBuyCupomUnico($purchase->id);            
             echo json_encode((object)['status' => true]);
 
